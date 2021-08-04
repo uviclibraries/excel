@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 5-Charting and Graphs
+title: 5 - Charting and Graphs
 nav_order: 6
 parent: Workshop Activities
 ---
