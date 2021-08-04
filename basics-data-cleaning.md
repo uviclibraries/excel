@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2-Excel Basics & Data Cleaning
+title: 2 - Excel Basics & Data Cleaning
 nav_order: 3
 parent: Workshop Activities
 ---
