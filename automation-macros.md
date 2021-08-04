@@ -36,7 +36,7 @@ Macros are a powerful tool that can help you save time by easily automating repe
   <img src="images/excel-automation-07.png" alt="Image of developer and record macro buttons."> 
   - In the Macro name field type: **SortAttendance** (with no space between the words), and then press the **OK** button.<br>
   <img src="images/excel-automation-08.gif" alt="Sorting attendance using formula."> 
-  - Sort by attendance: <img src="images/excel-automation-09.png" width="60" height="60" alt="Sorting icon."><br>
+  - Sort by attendance: <img src="images/excel-automation-09.png" style="float:right" width="60" height="60" alt="Sorting icon."><br>
               - Select all the data in columns A, B, & C (from A1 to C34).
               - Click on the **Data** tab on the ribbon and then click on the **Sort** button. 
               - Click on the **Column drop-down** and select **Total Attendance**.
@@ -58,7 +58,7 @@ Macros are a powerful tool that can help you save time by easily automating repe
   - **Please leave your dsc-pivot-table.xlsx spreadsheet Open in the background as you work through steps 7 and 8 or else you will have problems completing this activity!**
 
 7. Use the Macro on a different spreadsheet to sort it by attendance and sum the attendance:
-  - [Download spreadsheet](https://bit.ly/dsc-excel-macro)(while keeping the spreadsheet you created the macro in open in the background)
+  - [Download spreadsheet](docs/dsc-pivot-table.xlsx){:target="_blank"}(while keeping the spreadsheet you created the macro in open in the background)
   - Open the **dsc-october.xlsx** spreadsheet you just downloaded. Note: You may have a yellow bar at the top with a button that says **Enable Editing**. Click on the button to enable editing.
   - Open the list of macros available to you by clicking on the **Developer** tab in the ribbon, and then click on the **Macros** button.
   <img src="images/excel-automation-17.png" alt="Developer and macros button.">

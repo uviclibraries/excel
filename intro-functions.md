@@ -29,7 +29,7 @@ Functions are powerful tools that can quickly let you make complex calculations.
   - If you would like additional information on the COUNTIF function here is a [Microsoft tutorial](https://bit.ly/2I4IFCh){:target="_blank"}
 
 6. **VLOOKUP function**: Use VLOOKUP when you need to find things in a table or a range by row. For example, look up the price of a sale item by item name.
-  - **Open** [this spreadsheet](https://bit.ly/dsc-vlookup){:target="_blank"} and **Click** on the yellow **Enable Editing** button at the top of the screen.
+  - **Open** [this spreadsheet](docs/dsc-vlookup.xlsx){:target="_blank"} and **Click** on the yellow **Enable Editing** button at the top of the screen.
   - In the **B4** field **type**: **=VLOOKUP(A4,$D$4:$E$9,2,FALSE)**
 <img src="images/excel-functions-03.png" alt="Visual of the data from step 6.">
   - **Copy and paste** the contents of **B4** into **B5 to B10**.
