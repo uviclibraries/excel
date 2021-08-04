@@ -5,7 +5,7 @@ nav_order: 3
 parent: Workshop Activities
 ---
 <img src="images/excel-basics-01.png" style="float:right;width:320px;height:320px;" alt="Example of Data from all Steps."> 
-# Excel Basics and Data Cleaning
+# Fundamental Excel Skills
 If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
 1. Open Excel, and open a **Blank workbook.**
