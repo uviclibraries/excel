@@ -12,7 +12,7 @@ nav_order: 1
 - Hands-on activities: 80-110 min
 
 ## How can Excel make my life easier? 
-Excel is powerful tool which can help you collect data, analyse it, and visualize the resulting information. Excel is can help you not only in a workplace, but also in your school work and research, as it can help you organize many types of information and data (such as financal, organizational or research data for example), and can help you quicly create a variety of reporting elements like tables, graphs and charts. The ability to use spreadsheets effectivlty will help you in your school work, research projects, jobe searches, and career. 
+Excel is powerful tool which can help you collect data, analyse it, and visualize the resulting information. Excel can help you not only in a workplace, but also in your school work and research, as it can help you organize many types of information and data (such as financal, organizational or research data for example), and can help you quicly create a variety of reporting elements like tables, graphs and charts. The ability to use spreadsheets effectivlty will help you in your school work, research projects, jobe searches, and career. 
 
 ## Learning objectives
 
