@@ -37,7 +37,7 @@ Macros are a powerful tool that can help you save time by easily automating repe
   - In the Macro name field type: **SortAttendance** (with no space between the words), and then press the **OK** button.<br>
   <img src="images/excel-automation-08.gif" alt="Sorting attendance using formula."> 
   - Sort by attendance: <img src="images/excel-automation-09.png" style="float:right" width="60" height="60" alt="Sorting icon."><br>
-              - Select all the data in columns A, B, & C (from A1 to C34).
+              - Select columns A, B, & C.
               - Click on the **Data** tab on the ribbon and then click on the **Sort** button. 
               - Click on the **Column drop-down** and select **Total Attendance**.
               - Click on the **Order** drop-down and select **Largest to Smallest**. 
