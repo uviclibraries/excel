@@ -38,7 +38,7 @@ If you and your group have any questions or get stuck as you work through this i
   - **Delete** the contents of columns **B** and **C** **except for the first row** (cells **B1** and **C1**).
   - **Double-click** on cell **C1**, and then **edit the formula** to look like this: **=A1*B$1**. Press **Enter**.
   - Click on **C1**, **select** the **green dot** on the **bottom right of the cell** & **drag it** down to cell **C11**.
-  - If you’d like more details on absolute cell referencing, [view this page](http://bit.ly/2EGE4EY){:target="_blank"} 
+  - Read this short guide on cell referencing [view this page](http://bit.ly/2EGE4EY){:target="_blank"}. It will be useful when we work with functions such as VLOOKUP in Activity 3.
 
 6. OPTIONAL: The **Text to Columns** tool can come in handy when you want to split a table of text (like on a web page) into multiple cells. If you’d like more information on converting text to columns, [view this video](http://bit.ly/2HYNA7y){:target="_blank"} 
 
