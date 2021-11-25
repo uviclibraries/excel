@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2 - Fundamental Skills
+title: 1 - Fundamental Skills
 nav_order: 3
 parent: Workshop Activities
 ---
