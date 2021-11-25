@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 6 - Pivot Tables and Graphs
+title: 5 - Pivot Tables and Graphs
 nav_order: 7
 parent: Workshop Activities
 ---
