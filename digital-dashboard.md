@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 7-Digital Dashboards
+title: 7 - Digital Dashboards
 nav_order: 9
 parent: Workshop Activities
 ---
