@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3 - Introduction to Functions
+title: 2 - Introduction to Functions
 nav_order: 4
 parent: Workshop Activities
 ---
