@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 7 - Automation with Macros
+title: 6 - Automation with Macros
 nav_order: 8
 parent: Workshop Activities
 ---
