@@ -21,7 +21,7 @@ Functions are powerful tools that can quickly let you make complex calculations.
 3. **INT function**: The INT function rounds a number down to the nearest integer. For example, =INT(5.6789) would return 5
   - If you would like additional information on the INT function here is a [Microsoft tutorial](http://bit.ly/2I2qFIv){:target="_blank"}
 
-4. **COUNTA function**: Counts the number of non-empty cells in a range. 
+4. **COUNTA function**: Counts the number of non-empty cells in a range whether the cells have number or text in them. 
   - In an empty cell enter: **=counta(A1:A20)**
   - If you would like additional information on the COUNTA function here is a [Microsoft tutorial](https://bit.ly/2Ie37Rh){:target="_blank"}
 
