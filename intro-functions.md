@@ -45,7 +45,7 @@ Functions are powerful tools that can quickly let you make complex calculations.
   - Select cell **B1**, and then grab the **green dot** at the bottom right of the cell, and drag it down to cell **B4**. You should now see a **1** beside each **female** and a **2** beside the **male**.<br>
 <img src="images/excel-functions-07.gif" width="400" height="400" alt="Demonstration of Step 10">
 
-6. OPTIONAL but very useful - **VLOOKUP function**: Use VLOOKUP when you need to find things in a table or a range by row. For example, look up the price of a sale item by item name.
+6. **VLOOKUP function**: Use VLOOKUP when you need to find things in a table or a range by row. For example, look up the price of a sale item by item name.
   - **Download** [this spreadsheet](docs/dsc-vlookup.xlsx){:target="_blank"} and **Click** on the yellow **Enable Editing** button at the top of the screen.
   - The basic structure of the VLOOKUP function:
   **VLOOKUP(What you want to look up, where you want to look for it, the column number in the range containing the value to return, return an Approximate or Exact match – indicated as 1/TRUE, or 0/FALSE)**
