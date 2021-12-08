@@ -53,6 +53,7 @@ If you and your group have any questions or get stuck as you work through this i
 9. How to change categorical data (e.g., male, female) into “true”, “false”:
   - In cell **E4** enter: **goat**, in **E5** enter: **dog**, in **E6** enter: **goat**, in **E7** enter, **goat**, in **E8** enter **dog**.
   - In cell **F4** enter: **=IF(E4="goat",1,2)**   Press the **Enter** key. The number 1 should appear in cell **F4**. Select cell **F4**, and then grab and drag the **green dot** in the bottom right of the cell down to cell **F8**.
+  - Instead of **1** and **2**, now try using **TRUE** and **FALSE**.
   - Another way to do this would be to use the VLOOKUP function that will be covered in a later activity.<br>
 <img src="images/excel-basics-11.gif" alt="Step 9 Visual Demonstration." > 
 
