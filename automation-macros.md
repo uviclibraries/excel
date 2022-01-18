@@ -54,7 +54,8 @@ Macros are a powerful tool that can help you save time by easily automating repe
   - Save your spreadsheet by going to **File > Save As…** menu and then in the File Format field, select **Excel Macro-Enabled Workbook (.xlsm)**, and press the **Save** button.
   <img src="images/excel-automation-14.png" alt="Saving button."> 
   <img src="images/excel-automation-16.gif" alt="Demonstration of stopping recording and saving."> 
-  - **Please leave your dsc-pivot-table.xlsx spreadsheet Open in the background as you work through steps 7 and 8 or else you will have problems completing this activity!**
+  **Please leave your dsc-pivot-table.xlsx spreadsheet Open in the background as you work through steps 7 and 8 or else you will have problems completing this activity!**
+
 7. Use the Macro on a different spreadsheet to sort it by attendance and sum the attendance:
   - [Download spreadsheet](docs/dsc-october.xlsx){:target="_blank"} (while keeping the spreadsheet you created the macro in open in the background)
   - Open the **dsc-october.xlsx** spreadsheet you just downloaded. Note: You may have a yellow bar at the top with a button that says **Enable Editing**. Click on the button to enable editing.
