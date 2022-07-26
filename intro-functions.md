@@ -4,7 +4,7 @@ title: 2 - Introduction to Functions
 nav_order: 4
 parent: Workshop Activities
 ---
-<img src="images/excel-functions-01.png" style="float:right;width:200px;height:200px;"> 
+<img src="images/excel-functions-01.png" style="float:right;width:200px;"> 
 # Introduction to Functions
 Functions are powerful tools that can quickly let you make complex calculations. If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Here are some functions that are frequently used:
 
@@ -57,6 +57,6 @@ Functions are powerful tools that can quickly let you make complex calculations.
   - Modify the VLOOKUP formula in the B column to use the IF function so that it ignores all blank fields in the A column, and only uses the VLOOKUP function if there is something in the A column. **Type** the following formula into **B4**: **=IF(A4<>"",VLOOKUP(A4,$D$4:$E$9,2,FALSE),"")**
   - **Copy** the **B4** cell, then select cells **B5 to B25** and **paste**.
   - If you would like additional information on the VLOOKUP function here is a [Microsoft tutorial](http://bit.ly/2I4IoiJ){:target="_blank"}
-<img src="images/excel-functions-04.gif" width="400" height="400" alt="Demonstration of modifying the formula.">
+<img src="images/excel-functions-04.gif" width="400" alt="Demonstration of modifying the formula.">
 
 [NEXT STEP: Statistical Functions](statistical-functions.html){: .btn .btn-blue }
