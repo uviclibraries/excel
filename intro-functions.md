@@ -42,7 +42,7 @@ Functions are powerful tools that can quickly let you make complex calculations.
 <img src="images/excel-functions-08.png" style="float:right;width:240px;" alt="Representation of Column A and Column B.">
   - Create a new sheet (press the **+** button on the bottom of Excel) and in cells **A1** To **A4** type: **dog, dog, cat, dog** as you can see to the right.
   - In cell **B1** Type: **=IF(A1="dog",1,2)** and press the **Enter** key. This formula looks at **A1**, and if **dog** is found then it will return a **1**, and if it is not found then it will return a **2**.
-  - Select cell **B1**, and then grab the **green dot** at the bottom right of the cell, and drag it down to cell **B4**. You should now see a **1** beside each **female** and a **2** beside the **male**.<br>
+  - Select cell **B1**, and then grab the **green dot** at the bottom right of the cell, and drag it down to cell **B4**. You should now see a **1** beside each **dog** and a **2** beside the **cat**.<br>
 <img src="images/excel-functions-09.gif" width="400" alt="Demonstration of Step 10">
 
 6. **VLOOKUP function**: Use VLOOKUP when you need to find things in a table or a range by row. For example, look up the price of a sale item by item name.
