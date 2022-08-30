@@ -2,7 +2,7 @@
 layout: default
 title: 2 - Introduction to Functions
 nav_order: 4
-parent: Workshop Activities
+parent: Workshop Activities - Intro
 ---
 <img src="images/excel-functions-01.png" style="float:right;width:200px;"> 
 # Introduction to Functions
