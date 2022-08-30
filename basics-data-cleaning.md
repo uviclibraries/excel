@@ -2,7 +2,7 @@
 layout: default
 title: 1 - Fundamental Skills
 nav_order: 3
-parent: Workshop Activities - Intro
+parent: Workshop Activities - Introduction
 ---
 <img src="images/excel-basics-01.png" style="float:right;width:320px;height:320px;" alt="Example of Data from all Steps."> 
 # Fundamental Excel Skills
