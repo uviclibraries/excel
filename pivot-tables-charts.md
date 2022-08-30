@@ -2,7 +2,7 @@
 layout: default
 title: 5 - Pivot Tables and Charts
 nav_order: 7
-parent: Workshop Activities
+parent: Workshop Activities - Intermediate
 ---
 <img src="images/excel-pivot-01.png" style="float:right;width:250px;height:200px;"> 
 # Pivot Tables and Charts
