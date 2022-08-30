@@ -16,7 +16,7 @@ Excel is powerful tool which can help you collect data, analyse it, and visualiz
 
 ## Learning objectives
 
-At the end of this workshop, you will be able to:
+At the end of the **Introductory** portion of this workshop, you will be able to:
 1. Enter date data into rows & columns
 2. Name and identify rows & columns
 4. Sort data, using the filter button
@@ -26,6 +26,8 @@ At the end of this workshop, you will be able to:
 8. Track changes in excel
 9. Use these statistical functions: AVERAGE (Mean), Standard Deviation, MEDIAN, MODE, COUNT, Standardize, Sample Variance, Kurtosis, Skew, MIN, MAX, Range. 
 10. Produce basic graphs, histograms and scatterplots and edit them (e.g., add title, change axes names, colours, sizing etc)
+
+At the end of the **Intermediate** portion of this workshop, you will be able to:
 11. Create a basic pivot table and pivot chart
 12. Automate a series of tasks in a spreadsheet using a macro
 13. Create a Dashboard information summary sheet based on data from another sheet
