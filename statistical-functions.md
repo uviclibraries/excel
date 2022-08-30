@@ -2,7 +2,7 @@
 layout: default
 title: 3 - Statistical Functions
 nav_order: 5
-parent: Workshop Activities - Intro
+parent: Workshop Activities - Introduction
 ---
 <img src="images/excel-statistical-01.png" style="float:right;width:400px;height:200px;"> 
 # Statistical Functions
