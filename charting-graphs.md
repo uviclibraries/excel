@@ -2,7 +2,7 @@
 layout: default
 title: 4 - Charting and Graphs
 nav_order: 6
-parent: Workshop Activities
+parent: Workshop Activities - Intro
 ---
 <img src="images/excel-charts-graphs-01.png" style="float:right;width:300px;height:250px;" alt="Examples of different types of charts."> 
 # Charting, Graphs and More with Excel
