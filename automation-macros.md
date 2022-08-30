@@ -2,7 +2,7 @@
 layout: default
 title: 6 - Automation with Macros
 nav_order: 8
-parent: Workshop Activities
+parent: Workshop Activities - Intermediate
 ---
  <img src="images/excel-automation-01.png" style="float:right;width:180px;height:200px;"> 
 # Automation with Macros
