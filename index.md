@@ -32,4 +32,6 @@ At the end of the **Intermediate** portion of this workshop, you will be able to
 12. Automate a series of tasks in a spreadsheet using a macro
 13. Create a Dashboard information summary sheet based on data from another sheet
 
+**NOTE**: _You can earn DSC Badges by completing the Introductory and/or the Intermediate portions of this workshop._
+
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
