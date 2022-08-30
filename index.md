@@ -9,7 +9,8 @@ nav_order: 1
 
 - Pre-workshop activities: 10 min 
 - Introductory presentation: 10 min
-- Hands-on activities: 80-110 min
+- Hands-on activities - _Introduction_: 50-80min
+- Hands-on activities - _Intermediate_: 30-60min
 
 ## How can Excel make my life easier? 
 Excel is powerful tool which can help you collect data, analyse it, and visualize the resulting information. Excel can help you not only in a workplace, but also in your school work and research, as it can help you organize many types of information and data (such as financal, organizational or research data for example), and can help you quicly create a variety of reporting elements like tables, graphs and charts. The ability to use spreadsheets effectivlty will help you in your school work, research projects, jobe searches, and career. 
