@@ -2,7 +2,7 @@
 layout: default
 title: 7 - Digital Dashboards
 nav_order: 9
-parent: Workshop Activities
+parent: Workshop Activities - Intermediate
 ---
 # Creating a Digital Dashboard
 In this activity, you will create a Digital Dashboard, integrating data from a number of sheets and pivot tables. If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
