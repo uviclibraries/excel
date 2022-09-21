@@ -5,7 +5,7 @@ nav_order: 1
 ---
 <img src="images/excel-01.png" style="float:right;width:180px;height:180px;"> 
 
-# Introduction to Data Analysis with Excel
+# Data Analysis with Excel
 
 - Pre-workshop activities: 10 min 
 - Introductory presentation: 10 min
