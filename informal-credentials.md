@@ -18,6 +18,7 @@ DSC badges are awarded at the request of workshop participants after a DSC staff
 If you’d like to earn the **Introduction to Data Analysis with Excel** badge, email the following spreadsheets to: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
 1. Introduction to Functions
 2. Statistical Functions
+3. Charting & Graphs
 
 If you’d like to earn the **Intermediate to Data Analysis with Excel** badge, email the following spreadsheets to: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
 4. Macros
