@@ -3,6 +3,7 @@ layout: default
 title: 7 - Digital Dashboards
 nav_order: 9
 parent: Workshop Activities - Intermediate
+customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 # Creating a Digital Dashboard
 In this activity, you will create a Digital Dashboard, integrating data from a number of sheets and pivot tables. If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
@@ -41,4 +42,17 @@ In this activity, you will create a Digital Dashboard, integrating data from a n
   <img src="images/excel-dashboard-12.png" alt="Digital Dashboard visual."> 
   
 _Great job!_<br>
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
+
 [NEXT STEP: Earn a Workshop Badge](informal-credentials){: .btn .btn-blue }

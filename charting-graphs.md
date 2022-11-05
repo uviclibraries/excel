@@ -3,6 +3,7 @@ layout: default
 title: 4 - Charting and Graphs
 nav_order: 6
 parent: Workshop Activities - Introduction
+customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/excel-charts-graphs-01.png" style="float:right;width:300px;height:250px;" alt="Examples of different types of charts."> 
 # Charting, Graphs and More with Excel
@@ -75,5 +76,17 @@ OPTIONAL:
 8. **Histogram**:  [Instructions](http://bit.ly/2I78FNh){:target="_blank"} for how to create a Histogram chart.
 9. **Line Chart**: [Instructions](http://bit.ly/2HXiIEk){:target="_blank"} for how to create a Line chart.
 10. **Box & Whisker**: [Instructions](http://bit.ly/2I90O1w){:target="_blank"} for how to create a Box and Whisker chart
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
 [NEXT STEP: Pivot Tables and Pivot Charts](pivot-tables-charts.html){: .btn .btn-blue }

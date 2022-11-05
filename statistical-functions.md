@@ -3,6 +3,7 @@ layout: default
 title: 3 - Statistical Functions
 nav_order: 5
 parent: Workshop Activities - Introduction
+customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/excel-statistical-01.png" style="float:right;width:400px;height:200px;"> 
 # Statistical Functions
@@ -88,5 +89,17 @@ You may have the Analysis ToolPack install already. You can check to see if that
 4. If you get a prompt that the Analysis ToolPak is not currently installed on your computer, click Yes to install it.
 5. Quit and restart Excel.
 6. Now the Data Analysis command is available on the Data tab.
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
 [NEXT STEP: Charting and Graphs](charting-graphs.html){: .btn .btn-blue }

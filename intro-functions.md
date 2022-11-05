@@ -3,6 +3,7 @@ layout: default
 title: 2 - Introduction to Functions
 nav_order: 4
 parent: Workshop Activities - Introduction
+customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/excel-functions-01.png" style="float:right;width:200px;"> 
 # Introduction to Functions
@@ -58,5 +59,17 @@ Functions are powerful tools that can quickly let you make complex calculations.
   - **Copy** the **B4** cell, then select cells **B5 to B25** and **paste**.
   - If you would like additional information on the VLOOKUP function here is a [Microsoft tutorial](http://bit.ly/2I4IoiJ){:target="_blank"}
 <img src="images/excel-functions-04.gif" width="400" alt="Demonstration of modifying the formula.">
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
 [NEXT STEP: Statistical Functions](statistical-functions.html){: .btn .btn-blue }

@@ -3,6 +3,7 @@ layout: default
 title: 5 - Pivot Tables and Charts
 nav_order: 7
 parent: Workshop Activities - Intermediate
+customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/excel-pivot-01.png" style="float:right;width:250px;height:200px;"> 
 # Pivot Tables and Charts
@@ -39,5 +40,17 @@ Pivot Tables are a powerful tool that can help you quickly summarize your data. 
 <img src="images/excel-pivot-12.gif" alt="Demonstration of Step 4.">
 
 _Great job!_
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
 [NEXT STEP: Automation with Macros](automation-macros.html){: .btn .btn-blue }

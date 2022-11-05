@@ -3,6 +3,7 @@ layout: default
 title: 1 - Fundamental Skills
 nav_order: 3
 parent: Workshop Activities - Introduction
+customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/excel-basics-01.png" style="float:right;width:320px;height:320px;" alt="Example of Data from all Steps."> 
 # Fundamental Excel Skills
@@ -20,18 +21,47 @@ If you and your group have any questions or get stuck as you work through this i
 
 3. **Basics operation on cells**:
   - Click on Cell **C3**, press the = sign, then use your mouse and click on A1, press the + sign, then click on Cell A2. Cell C3 should have the following in it: =A1+A2. Now press **Enter** on your keyboard, and Excel will add cells **A1** and **A2** together and display the number 11 in Cell C3.<br>
-<img src="images/excel-basics-04.gif" alt="Demonstration of an addition operation."> 
+  
+  <button onclick="toggle('gif1')">Show/Hide Animation</button>
+<div id="gif1">
+      <img src="images/excel-basics-04.gif" alt="Demonstration of an addition operation."> <br>
+     </div> 
+
+
   - Click on or Select Cell C5, and then type in **=A3-A4**  Now press **Enter** on your keyboard, and Excel will display **5** in Cell **C5** (8-3=5).<br>
-<img src="images/excel-basics-05.gif" alt="Demonstration of a substration operation."> 
+  
+  <button onclick="toggle('gif2')">Show/Hide Animation</button>
+<div id="gif2">
+      <img src="images/excel-basics-05.gif" alt="Demonstration of a substration operation."> 
+     </div> 
+
   - Click on another cell and do the same thing to multiply two or more cells together using the * symbol to multiply.<br>
-<img src="images/excel-basics-06.gif" alt="Demonstration of a multiplication operation."> 
+  
+  <button onclick="toggle('gif3')">Show/Hide Animation</button>
+<div id="gif3">
+     <img src="images/excel-basics-06.gif" alt="Demonstration of a multiplication operation."> 
+     </div>
+
+
   - Click on another cell and do the same thing to divide two or more cells using the / symbol to divide.<br>
 
 4. **Copying & pasting into ranges** with the default Relative Cell referencing:
   - In cell **B1** type **5** and then press **Enter**. Click on **B1**, then **select** the **green dot** on the **bottom right of the cell** and **drag it** down to cell **B11**. You should now have a column of 5’s.<br>
-<img src="images/excel-basics-07.gif" alt="Demonstration of the first bullet point of number 4."> 
+
+    <button onclick="toggle('gif4')">Show/Hide Animation</button>
+<div id="gif4">
+    <img src="images/excel-basics-07.gif" alt="Demonstration of the first bullet point of number 4."> 
+     </div>
+
+
+
   - In cell **C1** enter: **=A1*B1** and press **Enter** (please delete the data currently in column C). Click on **C1**, then **select** the **green dot** on the **bottom right of the cell** and **drag it** down to cell **C11**. You’ve just multiplied all the rows in column A and B and put the result in column C!<br>
-<img src="images/excel-basics-08.gif" alt="Demonstration of the second bullet point of number 4."> 
+  
+  <button onclick="toggle('gif5')">Show/Hide Animation</button>
+<div id="gif5">
+    <img src="images/excel-basics-08.gif" alt="Demonstration of the second bullet point of number 4."> 
+     </div>
+
 
 5. Relative cell referencing is the default. Here is how you make an **Absolute Cell Reference**:
 <img src="images/excel-basics-09.gif" style="float:right;width:320px;height:320px;" alt="Demonstration of changing cell C to =A1*B$1."> 
@@ -60,5 +90,17 @@ If you and your group have any questions or get stuck as you work through this i
 10. Data Validation:
   - One of the easiest ways to validate data is to use an input form with radio boxes or drop-down menus as you see in all online survey tools. Google Sheets has an excellent Forms tool that can be used to collect data you enter yourself or survey data from research participants. Google Forms, puts the data into Google Sheets, which can then be either analyzed in Google Sheets or exported to MS Excel. [Here is more information about Google Forms](http://bit.ly/2FBqK5y){:target="_blank"}
   - If you’d like more information on data collections forms and validation in Excel, view please follow along with [this video](http://bit.ly/2I2jEYb){:target="_blank"}
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
 [NEXT STEP: Intro to Functions](intro-functions.html){: .btn .btn-blue }
