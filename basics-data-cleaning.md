@@ -64,7 +64,13 @@ If you and your group have any questions or get stuck as you work through this i
 
 
 5. Relative cell referencing is the default. Here is how you make an **Absolute Cell Reference**:
-<img src="images/excel-basics-09.gif" style="float:right;width:320px;height:320px;" alt="Demonstration of changing cell C to =A1*B$1."> 
+
+<button onclick="toggle('gif6')">Show/Hide Animation</button>
+<div id="gif6">
+    <img src="images/excel-basics-09.gif" style="float:right;width:320px;height:320px;" alt="Demonstration of changing cell C to =A1*B$1."> 
+     </div>
+
+
   - **Delete** the contents of columns **B** and **C** **except for the first row** (cells **B1** and **C1**).
   - **Double-click** on cell **C1**, and then **edit the formula** to look like this: **=A1*B$1**. Press **Enter**.
   - Click on **C1**, **select** the **green dot** on the **bottom right of the cell** & **drag it** down to cell **C11**.
@@ -85,7 +91,12 @@ If you and your group have any questions or get stuck as you work through this i
   - In cell **F4** enter: **=IF(E4="goat",1,2)**   Press the **Enter** key. The number 1 should appear in cell **F4**. Select cell **F4**, and then grab and drag the **green dot** in the bottom right of the cell down to cell **F8**.
   - Instead of **1** and **2**, now try using **TRUE** and **FALSE**.
   - Another way to do this would be to use the VLOOKUP function that will be covered in a later activity.<br>
-<img src="images/excel-basics-11.gif" alt="Step 9 Visual Demonstration." > 
+  
+  <button onclick="toggle('gif7')">Show/Hide Animation</button>
+<div id="gif7">
+   <img src="images/excel-basics-11.gif" alt="Step 9 Visual Demonstration." > 
+     </div>
+
 
 10. Data Validation:
   - One of the easiest ways to validate data is to use an input form with radio boxes or drop-down menus as you see in all online survey tools. Google Sheets has an excellent Forms tool that can be used to collect data you enter yourself or survey data from research participants. Google Forms, puts the data into Google Sheets, which can then be either analyzed in Google Sheets or exported to MS Excel. [Here is more information about Google Forms](http://bit.ly/2FBqK5y){:target="_blank"}
