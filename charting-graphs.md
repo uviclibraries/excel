@@ -6,6 +6,7 @@ parent: Workshop Activities - Introduction
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/excel-charts-graphs-01.png" style="float:right;width:300px;height:250px;" alt="Examples of different types of charts."> 
+
 # Charting, Graphs and More with Excel
 In this activity, you will produce some graphs and charts in Excel. If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
@@ -22,24 +23,53 @@ In this activity, you will produce some graphs and charts in Excel. If you have 
   - A dialogue box will pop up. Click on the **Column** drop-down, and select **Workshops**.
   - Click on the **Order** drop-down and select **Largest to Smallest**. 
 Press OK and the spreadsheet will re-order so that the workshop list is reordered from most to least number of workshops held.
- <img src="images/excel-charts-graphs-05.gif" alt="Demonstration of Step 2.">
+
+<button onclick="toggle('gif1')">Show/Hide Animation</button>
+<div id="gif1">
+   <img src="images/excel-charts-graphs-05.gif" alt="Demonstration of Step 2.">
+     </div>
+ 
  
 3. **Formatting Columns & Rows**:
   - Make column A wider by grabbing the grey line between columns A & B and dragging it to the right. Try changing the width of a row on your own.
- <img src="images/excel-charts-graphs-06.gif" alt="Demonstration of Step 3 bullet point 1 grabbing the grey line."> 
+
+  <button onclick="toggle('gif2')">Show/Hide Animation</button>
+<div id="gif2">
+    <img src="images/excel-charts-graphs-06.gif" alt="Demonstration of Step 3 bullet point 1 grabbing the grey line."> 
+     </div>
+
+
   - Insert a new column by **right-mouse-clicking** on column **B**, and then **clicking** on **Insert** in the popup menu. 
   - Type **Test** into cell **B1**. Click on **Row 1** and try inserting a row on your own now.
- <img src="images/excel-charts-graphs-07.gif" alt="Demonstration of typing Test and inserting new row.">
+
+  <button onclick="toggle('gif3')">Show/Hide Animation</button>
+<div id="gif3">
+    <img src="images/excel-charts-graphs-07.gif" alt="Demonstration of typing Test and inserting new row.">
+     </div>
+
+ 
   - Hide a column by **right mouse clicking** on column **B**, and then **selecting Hide** from the popup menu. 
   - **Unhide** it by **selecting** columns **A** and **B**, then **right mouse click** on **B** and select Unhide. Note If you don’t have a mouse please double click with your trackpad on the slightly thicker line between column **A** and **C**.<br>
- <img src="images/excel-charts-graphs-08.gif" alt="Demonstration of hiding and unhiding rows.">
+
+  <button onclick="toggle('gif4')">Show/Hide Animation</button>
+<div id="gif4">
+    <img src="images/excel-charts-graphs-08.gif" alt="Demonstration of hiding and unhiding rows.">
+     </div>
+
+ 
  
 4. **Freezing rows or Columns**: This is particularly useful on spreadsheets with a lot of data so that you can scroll vertically and horizontally and still see your column and row labels.
 <img src="images/excel-charts-graphs-09.png" style="float:right;width:80px;height:100px;" alt="Freeze panes icon.">
   - **Click** on the green **View** tab on the top menu.
   - **Click** on the **Freeze Panes** on the top menu, and then **select Freeze Top Row**. You can now scroll as far as you want vertically and you will always see the labels on your top row.
   - **Click** on the **Freeze Panes** on the top menu, and then select **Freeze First Column**. You can now scroll as far as you want horizontally and you will always see the labels in column A.
- <img src="images/excel-charts-graphs-10.gif" alt="Demonstration of Step 4.">
+
+  <button onclick="toggle('gif5')">Show/Hide Animation</button>
+<div id="gif5">
+    <img src="images/excel-charts-graphs-10.gif" alt="Demonstration of Step 4.">
+     </div>
+
+ 
 
 5. **Pie Chart**:
  <img src="images/excel-charts-graphs-11.png" style="float:right;width:200px;height:200px;" alt="Demonstration of clicking delete to erase a column.">
@@ -47,7 +77,13 @@ Press OK and the spreadsheet will re-order so that the workshop list is reordere
   - Select all the first two columns in the sheet, by **dragging** from **A1** to **B6**. **Click** on the green **Insert** tab on the top menu.
   - **Click** on the **Recommended Charts Button** on the top menu, and then **select** the **Pie Chart Graph**. **Click OK**.
   - You can now select the type of pie chart you’d like to use from the top ribbon. Don’t forget to scroll to see more pie chart formats! 
- <img src="images/excel-charts-graphs-12.gif" alt="Demonstration of selecting a pie chart.">
+
+  <button onclick="toggle('gif6')">Show/Hide Animation</button>
+<div id="gif6">
+    <img src="images/excel-charts-graphs-12.gif" alt="Demonstration of selecting a pie chart.">
+     </div>
+
+ 
  
 6. **Bar Chart with trendline**:
   - Select all the cells in the sheet, by dragging from **A1 to C6**.
@@ -57,7 +93,13 @@ Press OK and the spreadsheet will re-order so that the workshop list is reordere
 <img src="images/excel-charts-graphs-13.png" style="float:right;width:80px;height:100px;"> <img src="images/excel-charts-graphs-14.png" style="float:right;width:80px;height:100px;" alt="Add chart element icon"> 
   - When the dialogue box appears, select **People**, and then press **OK**.
   - You should now have a chart that looks like the one to the right.
- <img src="images/excel-charts-graphs-15.gif" alt="Demonstration of selecting a clustered column chart.">
+
+  <button onclick="toggle('gif7')">Show/Hide Animation</button>
+<div id="gif7">
+    <img src="images/excel-charts-graphs-15.gif" alt="Demonstration of selecting a clustered column chart.">
+     </div>
+
+ 
  
 7. **Scatterplot with Trendline:** 
   - Download and open [this spreadsheet](docs/dsc-charting-graphs.xlsx){:target="_blank"}  Note: You may have a yellow bar at the top with a button that says **Enable Editing**. Click on that to enable editing.
@@ -65,9 +107,21 @@ Press OK and the spreadsheet will re-order so that the workshop list is reordere
   - Click on the Insert tab, and then click on the **Recommended Charts** button, and select the first recommended chart which should be a **Scatter** chart. Click **OK**.
   - To add a trendline, click on the **Add Chart Elements** button on the top left toolbar, and then **Trendline** and then **Linear**.
   - You should now have a Scatter plot chart with a linear trend line.
-  <img src="images/excel-charts-graphs-17.gif" alt="Demonstration of adding a linear trendline.">
+
+  <button onclick="toggle('gif8')">Show/Hide Animation</button>
+<div id="gif8">
+    <img src="images/excel-charts-graphs-17.gif" alt="Demonstration of adding a linear trendline.">
+     </div>
+
+  
   - To add a label to the vertical axis click on the **Add Chart Elements** button on the top left toolbar, and then **Axis Titles** and then **Primary Vertical**. 
-  <img src="images/excel-charts-graphs-16.gif" alt="Demonstration of modifying axis names and titles.">
+
+  <button onclick="toggle('gif9')">Show/Hide Animation</button>
+<div id="gif9">
+    <img src="images/excel-charts-graphs-16.gif" alt="Demonstration of modifying axis names and titles.">
+     </div>
+
+  
   - Click on the new axis label, highlight the current text, and then type **Grade**.<br>
   - Do the same for the horizontal Axis, and type **Homework Assignments Completed**.<br>
   - To change the chart title, double click on the title which is currently “Grade”, and then change it to: **Grade Homework Assignment Correlation**.

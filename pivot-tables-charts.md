@@ -16,7 +16,13 @@ Pivot Tables are a powerful tool that can help you quickly summarize your data. 
   - Select all the data in the spreadsheet from A1 to C34.
   - Select the **Insert** tab, and then press the **PivotTable** button on the top left of the ribbon.
   - When the PivotTable dialogue box appears, press **OK**.
-<img src="images/excel-pivot-03.gif" alt="Demonstration of Step 2."> 
+
+  <button onclick="toggle('gif1')">Show/Hide Animation</button>
+<div id="gif1">
+    <img src="images/excel-pivot-03.gif" alt="Demonstration of Step 2."> 
+     </div>
+
+
 
 3. You now have a blank canvas of a pivot table setup. Let’s add data:
 <img src="images/excel-pivot-04.png" style="float:right;width:250px;height:200px;" alt="Selecting workshops and total attendance checkboxes."> 
@@ -25,7 +31,13 @@ Pivot Tables are a powerful tool that can help you quickly summarize your data. 
 <img src="images/excel-pivot-05.png" style="float:right;width:250px;height:200px;" alt="Sigma Values."> 
   - Lastly, select the **Date** checkbox in the PivotTable. 
   - Move **Date** into Rows field. You should now have a pivot table that looks like this:
-<img src="images/excel-pivot-06.gif" alt="Moving date into the rows field.">
+
+  <button onclick="toggle('gif2')">Show/Hide Animation</button>
+<div id="gif2">
+    <img src="images/excel-pivot-06.gif" alt="Moving date into the rows field.">
+     </div>
+
+
 <img src="images/excel-pivot-07.png" alt="Visual of the table with data.">
 
 4. Let’s create a chart:
@@ -37,7 +49,13 @@ Pivot Tables are a powerful tool that can help you quickly summarize your data. 
   - Select the **Insert** tab on the top ribbon, and then select the **PivotChart** button in the ribbon. 
 <img src="images/excel-pivot-10.png" style="float:right;width:80px;height:80px;"><img src="images/excel-pivot-11.png" style="float:right;width:80px;height:80px;" alt="Pivot chart icons."> 
   - Click **OK**, and now you have a basic chart. Please feel free to experiment with both the data and the chart.<br>
-<img src="images/excel-pivot-12.gif" alt="Demonstration of Step 4.">
+
+  <button onclick="toggle('gif3')">Show/Hide Animation</button>
+<div id="gif3">
+    <img src="images/excel-pivot-12.gif" alt="Demonstration of Step 4.">
+     </div>
+
+
 
 _Great job!_
 
