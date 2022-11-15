@@ -6,10 +6,12 @@ parent: Workshop Activities - Introduction
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/excel-statistical-01.png" style="float:right;width:400px;height:200px;"> 
+
 # Statistical Functions
 
 Statistical Functions are powerful tools that can quickly let you make complex calculations. If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance. Here are some statistical functions that are frequently used:
-<img src="images/excel-statistical-02.png" style="float:right;width:150px;height:225px" alt="Image of Step 1 Data">  
+<img src="images/excel-statistical-02.png" style="float:right;width:150px;height:225px" alt="Image of Step 1 Data"> 
+
 1. Open Excel, and open a **Blank workbook**.
   - Enter number **5** into cell **A1** in your spreadsheet, and then press **Enter** on your keyboard.
   - Enter the following numbers in Column A below the number 5 you just entered: **6, 8, 3, 1, 9, 5, 4, 7, 5, 6**.  We will use this list of numbers for the rest of this exercise.
@@ -21,7 +23,6 @@ Statistical Functions are powerful tools that can quickly let you make complex c
     <img src="images/excel-statistical-03.gif" style="float:right;width:250px;height:250px" alt="Demonstration of Step 2"> 
      </div>
 
- 
   - Enter in **A13**: **Mean**
   - Enter in **A14** the formula **=AVERAGE(A1:A11)** and then press the **Enter** key. 
   - **A14** should contain **5.363636** which is the arithmetic mean of those eleven numbers.
@@ -32,7 +33,6 @@ Statistical Functions are powerful tools that can quickly let you make complex c
 <div id="gif2">
     <img src="images/excel-statistical-04.gif" style="float:right;width:250px;height:250px" alt="Demonstration of Step 3"> 
      </div>
-
 
   - Enter in **B13**: **Median**
   - Enter in **B14** the formula **=MEDIAN(A1:A11)** and then press the **Enter** key. 
@@ -47,8 +47,6 @@ Statistical Functions are powerful tools that can quickly let you make complex c
 <div id="gif3">
     <img src="images/excel-statistical-05.gif" alt="Demonstration of Step 4.">
      </div>
-
-
 
 5. **MAX, MIN functions & Range**: In order to calculate the range of a group (or range) of data in Excel we must first use the MIN and MAX functions to find the spread of values.
   - Enter in **D13**: **Range**
