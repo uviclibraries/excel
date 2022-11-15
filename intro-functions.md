@@ -21,7 +21,6 @@ Functions are powerful tools that can quickly let you make complex calculations.
     <img src="images/excel-functions-02.gif" alt="Demonstration of Calculating the Sum.">
      </div>
 
-
   - Rows can also be summed. Enter some numbers in cells **A16** to **D16**, and then in cell **A17** type: **=sum(A16:D16)**  After pressing **Enter**, the sum of those four numbers should appear.
   - If you would like additional information on the SUM function, here is a [Microsoft video tutorial](http://bit.ly/2HZ9Jmi){:target="_blank"}
 
@@ -55,8 +54,6 @@ Functions are powerful tools that can quickly let you make complex calculations.
 <div id="gif2">
     <img src="images/excel-functions-09.gif" width="400" alt="Demonstration of Step 10">
      </div>
-
-
 
 6. **VLOOKUP function**: Use VLOOKUP when you need to find things in a table or a range by row. For example, look up the price of a sale item by item name.
   - **Download** [this spreadsheet](docs/dsc-vlookup.xlsx){:target="_blank"} and **Click** on the yellow **Enable Editing** button at the top of the screen.
