@@ -6,7 +6,9 @@ parent: Workshop Activities - Intermediate
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/excel-pivot-01.png" style="float:right;width:250px;height:200px;"> 
+
 # Pivot Tables and Charts
+
 Pivot Tables are a powerful tool that can help you quickly summarize your data. If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance. 
 
 1. Download [this spreadsheet with data for this exercise](docs/dsc-pivot-table.xlsx){:target="_blank"} Note: You may have a yellow bar at the top with a button that says **Enable Editing**. Click on that to enable editing.
@@ -21,8 +23,6 @@ Pivot Tables are a powerful tool that can help you quickly summarize your data. 
 <div id="gif1">
     <img src="images/excel-pivot-03.gif" alt="Demonstration of Step 2."> 
      </div>
-
-
 
 3. You now have a blank canvas of a pivot table setup. Let’s add data:
 <img src="images/excel-pivot-04.png" style="float:right;width:250px;height:200px;" alt="Selecting workshops and total attendance checkboxes."> 
