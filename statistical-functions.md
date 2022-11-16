@@ -5,7 +5,7 @@ nav_order: 5
 parent: Workshop Activities - Introduction
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
-<img src="images/excel-statistical-01.png" style="float:right;width:400px;height:200px;"> 
+ <img src="images/excel-statistical-01.png" style="float:right;width:400px;height:200px;"> 
 
 # Statistical Functions
 
@@ -19,10 +19,10 @@ Statistical Functions are powerful tools that can quickly let you make complex c
 
 2. **AVERAGE function (Mean)**: Returns the arithmetic mean of a range of numbers.
 
-<button onclick="toggle('gif1')">Show/Hide Animation</button>
-<div id="gif1">
-<img src="images/excel-statistical-03.gif" style="float:right;width:250px;height:250px" alt="Demonstration of Step 2"> 
-</div>
+   <button onclick="toggle('gif1')">Show/Hide Animation</button>
+   <div id="gif1">
+   <img src="images/excel-statistical-03.gif" style="float:right;width:250px;height:250px" alt="Demonstration of Step 2"> 
+   </div>
 
   - Enter in **A13**: **Mean**
   - Enter in **A14** the formula **=AVERAGE(A1:A11)** and then press the **Enter** key. 
@@ -30,10 +30,10 @@ Statistical Functions are powerful tools that can quickly let you make complex c
 
 3. **MEDIAN function**: Returns the median of the given numbers. The median is the number in the middle of a set of numbers.
 
-<button onclick="toggle('gif2')">Show/Hide Animation</button>
-<div id="gif2">
-<img src="images/excel-statistical-04.gif" style="float:right;width:250px;height:250px" alt="Demonstration of Step 3"> 
-</div>
+   <button onclick="toggle('gif2')">Show/Hide Animation</button>
+   <div id="gif2">
+   <img src="images/excel-statistical-04.gif" style="float:right;width:250px;height:250px" alt="Demonstration of Step 3"> 
+   </div>
 
   - Enter in **B13**: **Median**
   - Enter in **B14** the formula **=MEDIAN(A1:A11)** and then press the **Enter** key. 
@@ -44,20 +44,20 @@ Statistical Functions are powerful tools that can quickly let you make complex c
   - Enter in **C14** the formula **=MODE(A1:A11)** and then press the **Enter** key. 
   - **C14** should contain **5** which is the most common number out of those eleven numbers.<br>
 
-<button onclick="toggle('gif3')">Show/Hide Animation</button>
-<div id="gif3">
-<img src="images/excel-statistical-05.gif" alt="Demonstration of Step 4.">
-</div>
+   <button onclick="toggle('gif3')">Show/Hide Animation</button>
+   <div id="gif3">
+   <img src="images/excel-statistical-05.gif" alt="Demonstration of Step 4.">
+   </div>
 
 5. **MAX, MIN functions & Range**: In order to calculate the range of a group (or range) of data in Excel we must first use the MIN and MAX functions to find the spread of values.
   - Enter in **D13**: **Range**
   - Enter in **D14** the formula **=MAX(A1:A11)-MIN(A1:A11)** and then press the **Enter** key. 
   - **D14** should contain **8** which is the range between those eleven numbers.
 
-<button onclick="toggle('gif4')">Show/Hide Animation</button>
-<div id="gif4">
-<img src="images/excel-statistical-06.gif" alt="Demonstration of Step 5.">
-</div>
+   <button onclick="toggle('gif4')">Show/Hide Animation</button>
+   <div id="gif4">
+   <img src="images/excel-statistical-06.gif" alt="Demonstration of Step 5.">
+   </div>
 
 
 
@@ -66,12 +66,12 @@ Statistical Functions are powerful tools that can quickly let you make complex c
   - Enter in **E14** the formula **=STDEV.S(A1:A11)** and then press the **Enter** key. 
   - **E14** should contain **2.248232** which is the standard deviation of those eleven numbers.
 
-<img src="images/excel-statistical-07.png" width="400" height="400" alt="Standard deviation Sample.">
+ <img src="images/excel-statistical-07.png" width="400" height="400" alt="Standard deviation Sample.">
 
-<button onclick="toggle('gif5')">Show/Hide Animation</button>
-<div id="gif5">
-<img src="images/excel-statistical-08.gif" alt="Demonstration of Step 6.">
-</div>
+  <button onclick="toggle('gif5')">Show/Hide Animation</button>
+  <div id="gif5">
+  <img src="images/excel-statistical-08.gif" alt="Demonstration of Step 6.">
+  </div>
 
 
 
@@ -80,10 +80,10 @@ Statistical Functions are powerful tools that can quickly let you make complex c
   - Enter in **F14** the formula =**VAR.S(A1:A11)** and then press the **Enter** key. 
   - **F14** should contain **5.054545** which is the sample variance of those eleven numbers.
 
-<button onclick="toggle('gif6')">Show/Hide Animation</button>
-<div id="gif6">
-<img src="images/excel-statistical-09.gif" alt="Demonstration of Step 7.">
-</div>
+    <button onclick="toggle('gif6')">Show/Hide Animation</button>
+    <div id="gif6">
+    <img src="images/excel-statistical-09.gif" alt="Demonstration of Step 7.">
+    </div>
 
 
 
@@ -93,10 +93,10 @@ Statistical Functions are powerful tools that can quickly let you make complex c
   - Enter in **G14** the formula **=KURT(A1:A11)** and then press the **Enter** key. 
   - **G14** should contain **0.339462** which is the kurtosis of those eleven numbers.
 
-<button onclick="toggle('gif7')">Show/Hide Animation</button>
-<div id="gif7">
-<img src="images/excel-statistical-10.gif" alt="Demonstration of Step 8.">
-</div>
+    <button onclick="toggle('gif7')">Show/Hide Animation</button>
+    <div id="gif7">
+    <img src="images/excel-statistical-10.gif" alt="Demonstration of Step 8.">
+    </div>
 
 
 
@@ -105,10 +105,10 @@ Statistical Functions are powerful tools that can quickly let you make complex c
   - Enter in **H14** the formula **=SKEW(A1:A11)** and then press the **Enter** key. 
   - **H14** should contain **-0.297596** which is the Skewness of those eleven numbers.
 
-<button onclick="toggle('gif8')">Show/Hide Animation</button>
-<div id="gif8">
-<img src="images/excel-statistical-11.gif" alt="Demonstration of Step 9.">
-</div>
+   <button onclick="toggle('gif8')">Show/Hide Animation</button>
+   <div id="gif8">
+   <img src="images/excel-statistical-11.gif" alt="Demonstration of Step 9.">
+   </div>
 
 
 
@@ -117,10 +117,10 @@ Statistical Functions are powerful tools that can quickly let you make complex c
   - Enter in **J14** the formula **=STANDARDIZE(C14, A14, E14)** and then press the **Enter** key. 
   - **J14** should contain **-0.161743283** which is Standardized for the mode.
 
-<button onclick="toggle('gif9')">Show/Hide Animation</button>
-<div id="gif9">
-<img src="images/excel-statistical-12.gif" width="600" height="600" alt="Demonstration of Step 10.">
-</div>
+   <button onclick="toggle('gif9')">Show/Hide Animation</button>
+   <div id="gif9">
+   <img src="images/excel-statistical-12.gif" width="600" height="600" alt="Demonstration of Step 10.">
+   </div>
 
 
 

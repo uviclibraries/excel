@@ -16,9 +16,9 @@ If you and your group have any questions or get stuck as you work through this i
    - Columns are vertical. Eg. **Column C.**
    - Rows are horizontal. Eg. **Row 3.**
    - Cells are the intersection between a column and a row. Eg. Cell **E7** (see image).<br>
-<img src="images/excel-basics-02.png" width="400" height="200" alt="Representation of Cells and Rows."> 
+   <img src="images/excel-basics-02.png" width="400" height="200" alt="Representation of Cells and Rows."> 
 
- <img src="images/excel-basics-03.png" style="float:right;width:250px;height:250px;" alt="Example of Column A filled out.">
+   <img src="images/excel-basics-03.png" style="float:right;width:250px;height:250px;" alt="Example of Column A filled out.">
 
    - Enter number **5** into cell A1 in your spreadsheet, and then press **Enter** on your keyboard.
    - Enter the following numbers in Column **A** below the number 5 you just entered: **6, 8, 3, 1, 9, 5, 4, 7, 5, 6.**  We will use this list of numbers for the rest of this       exercise.
@@ -26,52 +26,48 @@ If you and your group have any questions or get stuck as you work through this i
 3. **Basics operation on cells**:
   - Click on Cell **C3**, press the = sign, then use your mouse and click on A1, press the + sign, then click on Cell A2. Cell C3 should have the following in it: =A1+A2. Now press **Enter** on your keyboard, and Excel will add cells **A1** and **A2** together and display the number 11 in Cell C3.<br>
   
-<button onclick="toggle('gif1')">Show/Hide Animation</button>
-<div id="gif1">
-<img src="images/excel-basics-04.gif" alt="Demonstration of an addition operation."> <br>
-</div> 
-
-
-  - Click on or Select Cell C5, and then type in **=A3-A4**  Now press **Enter** on your keyboard, and Excel will display **5** in Cell **C5** (8-3=5).<br>
+    <button onclick="toggle('gif1')">Show/Hide Animation</button>
+    <div id="gif1">
+    <img src="images/excel-basics-04.gif" alt="Demonstration of an addition operation."> <br>
+    </div> 
+   - Click on or Select Cell C5, and then type in **=A3-A4**  Now press **Enter** on your keyboard, and Excel will display **5** in Cell **C5** (8-3=5).<br>
   
-<button onclick="toggle('gif2')">Show/Hide Animation</button>
-<div id="gif2">
-<img src="images/excel-basics-05.gif" alt="Demonstration of a substration operation."> 
-</div> 
+    <button onclick="toggle('gif2')">Show/Hide Animation</button>
+    <div id="gif2">
+    <img src="images/excel-basics-05.gif" alt="Demonstration of a substration operation."> 
+    </div> 
 
   - Click on another cell and do the same thing to multiply two or more cells together using the * symbol to multiply.<br>
   
-<button onclick="toggle('gif3')">Show/Hide Animation</button>
-<div id="gif3">
-<img src="images/excel-basics-06.gif" alt="Demonstration of a multiplication operation."> 
-</div>
+    <button onclick="toggle('gif3')">Show/Hide Animation</button>
+    <div id="gif3">
+    <img src="images/excel-basics-06.gif" alt="Demonstration of a multiplication operation."> 
+    </div>
 
   - Click on another cell and do the same thing to divide two or more cells using the / symbol to divide.<br>
 
 4. **Copying & pasting into ranges** with the default Relative Cell referencing:
   - In cell **B1** type **5** and then press **Enter**. Click on **B1**, then **select** the **green dot** on the **bottom right of the cell** and **drag it** down to cell **B11**. You should now have a column of 5’s.<br>
 
-<button onclick="toggle('gif4')">Show/Hide Animation</button>
-<div id="gif4">
-<img src="images/excel-basics-07.gif" alt="Demonstration of the first bullet point of number 4."> 
-</div>
-
-
+     <button onclick="toggle('gif4')">Show/Hide Animation</button>
+     <div id="gif4">
+     <img src="images/excel-basics-07.gif" alt="Demonstration of the first bullet point of number 4."> 
+     </div>
 
   - In cell **C1** enter: **=A1*B1** and press **Enter** (please delete the data currently in column C). Click on **C1**, then **select** the **green dot** on the **bottom right of the cell** and **drag it** down to cell **C11**. You’ve just multiplied all the rows in column A and B and put the result in column C!<br>
   
-<button onclick="toggle('gif5')">Show/Hide Animation</button>
-<div id="gif5">
-<img src="images/excel-basics-08.gif" alt="Demonstration of the second bullet point of number 4."> 
-</div>
+    <button onclick="toggle('gif5')">Show/Hide Animation</button>
+    <div id="gif5">
+    <img src="images/excel-basics-08.gif" alt="Demonstration of the second bullet point of number 4."> 
+    </div>
 
 
 5. Relative cell referencing is the default. Here is how you make an **Absolute Cell Reference**:
 
-<button onclick="toggle('gif6')">Show/Hide Animation</button>
-<div id="gif6">
-<img src="images/excel-basics-09.gif" style="float:right;width:320px;height:320px;" alt="Demonstration of changing cell C to =A1*B$1."> 
-</div>
+    <button onclick="toggle('gif6')">Show/Hide Animation</button>
+    <div id="gif6">
+    <img src="images/excel-basics-09.gif" style="float:right;width:320px;height:320px;" alt="Demonstration of changing cell C to =A1*B$1."> 
+    </div>
 
 
   - **Delete** the contents of columns **B** and **C** **except for the first row** (cells **B1** and **C1**).
@@ -95,10 +91,10 @@ If you and your group have any questions or get stuck as you work through this i
   - Instead of **1** and **2**, now try using **TRUE** and **FALSE**.
   - Another way to do this would be to use the VLOOKUP function that will be covered in a later activity.<br>
   
-<button onclick="toggle('gif7')">Show/Hide Animation</button>
-<div id="gif7">
-<img src="images/excel-basics-11.gif" alt="Step 9 Visual Demonstration." > 
-</div>
+    <button onclick="toggle('gif7')">Show/Hide Animation</button>
+    <div id="gif7">
+    <img src="images/excel-basics-11.gif" alt="Step 9 Visual Demonstration." > 
+    </div>
 
 
 10. Data Validation:

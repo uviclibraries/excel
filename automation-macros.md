@@ -15,7 +15,7 @@ Macros are a powerful tool that can help you save time by easily automating repe
 
 2. Enable Developer option in the _**Mac OSX** version of Excel  (you only have to do this once):_
 
- <img src="images/excel-automation-04.png" style="float:right;width:180px;height:150px;" alt="ribbon and toolbar icon">
+  <img src="images/excel-automation-04.png" style="float:right;width:180px;height:150px;" alt="ribbon and toolbar icon">
 
   <img src="images/excel-automation-03.png" style="float:right;width:50px;height:50px;" alt="preferences."> 
 
