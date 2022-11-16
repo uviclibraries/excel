@@ -21,10 +21,10 @@ Pivot Tables are a powerful tool that can help you quickly summarize your data. 
   - Select the **Insert** tab, and then press the **PivotTable** button on the top left of the ribbon.
   - When the PivotTable dialogue box appears, press **OK**.
 
-   <button onclick="toggle('gif1')">Show/Hide Animation</button>
+  <button onclick="toggle('gif1')">Show/Hide Animation</button>
   <div id="gif1">
-    <img src="images/excel-pivot-03.gif" alt="Demonstration of Step 2."> 
-     </div>
+  <img src="images/excel-pivot-03.gif" alt="Demonstration of Step 2."> 
+ </div>
 
 3. You now have a blank canvas of a pivot table setup. Let’s add data:
 
@@ -38,10 +38,10 @@ Pivot Tables are a powerful tool that can help you quickly summarize your data. 
   - Lastly, select the **Date** checkbox in the PivotTable. 
   - Move **Date** into Rows field. You should now have a pivot table that looks like this:
 
-  <button onclick="toggle('gif2')">Show/Hide Animation</button>
+<button onclick="toggle('gif2')">Show/Hide Animation</button>
 <div id="gif2">
-    <img src="images/excel-pivot-06.gif" alt="Moving date into the rows field.">
-     </div>
+<img src="images/excel-pivot-06.gif" alt="Moving date into the rows field.">
+</div>
 
 
 <img src="images/excel-pivot-07.png" alt="Visual of the table with data.">
@@ -52,6 +52,7 @@ Pivot Tables are a powerful tool that can help you quickly summarize your data. 
   - In the **∑ Values** area, **right mouse click** on Count of Workshop and select **Remove Field**.
   - Sort the Sum of Total Attendance column by clicking on the little arrow facing down (found within the “row labels” cell). Then select “Descending” and sort by the “sum of Total Attendance”. Feel free to try this by selecting “Ascending” instead as well.
 <img src="images/excel-pivot-08.png" style="float:right;" alt="Sorting using descending andascending."> 
+
   <img src="images/excel-pivot-09.png" style="float:right;" alt="Arrow to click to sort.">
 
   - Select the **Insert** tab on the top ribbon, and then select the **PivotChart** button in the ribbon. 
@@ -60,10 +61,10 @@ Pivot Tables are a powerful tool that can help you quickly summarize your data. 
 
   - Click **OK**, and now you have a basic chart. Please feel free to experiment with both the data and the chart.<br>
 
-  <button onclick="toggle('gif3')">Show/Hide Animation</button>
+<button onclick="toggle('gif3')">Show/Hide Animation</button>
 <div id="gif3">
-    <img src="images/excel-pivot-12.gif" alt="Demonstration of Step 4.">
-     </div>
+<img src="images/excel-pivot-12.gif" alt="Demonstration of Step 4.">
+</div>
 
 
 
