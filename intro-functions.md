@@ -18,12 +18,13 @@ Functions are powerful tools that can quickly let you make complex calculations.
 2. **SUM function:** The sum function quickly and easily adds up a range of numbers for you.
   - In cell **A13** type: **=sum(A1:A11)** and press **Enter** on your keyboard. Cell **A13** should now have the number **59** in it.<br>
 
-  <button onclick="toggle('gif1')">Show/Hide Animation</button>
+<button onclick="toggle('gif1')">Show/Hide Animation</button>
 <div id="gif1">
-    <img src="images/excel-functions-02.gif" alt="Demonstration of Calculating the Sum.">
-     </div>
+<img src="images/excel-functions-02.gif" alt="Demonstration of Calculating the Sum.">
+</div>
 
   - Rows can also be summed. Enter some numbers in cells **A16** to **D16**, and then in cell **A17** type: **=sum(A16:D16)**  After pressing **Enter**, the sum of those four numbers should appear.
+
   - If you would like additional information on the SUM function, here is a [Microsoft video tutorial](http://bit.ly/2HZ9Jmi){:target="_blank"}
 
 
@@ -48,15 +49,17 @@ Functions are powerful tools that can quickly let you make complex calculations.
   - If you would like additional information on the LEN function here is a [Microsoft tutorial](http://bit.ly/2I0lYiA){:target="_blank"}  
 
 10. **IFS function**: Use the IFS function to check whether one or more conditions are met and returns a value that corresponds to the first TRUE condition.
+
 <img src="images/excel-functions-08.png" style="float:right;width:240px;" alt="Representation of Column A and Column B.">
+
   - Create a new sheet (press the **+** button on the bottom of Excel) and in cells **A1** To **A4** type: **dog, dog, cat, dog** as you can see to the right.
   - In cell **B1** Type: **=IF(A1="dog",1,2)** and press the **Enter** key. This formula looks at **A1**, and if **dog** is found then it will return a **1**, and if it is not found then it will return a **2**.
   - Select cell **B1**, and then grab the **green dot** at the bottom right of the cell, and drag it down to cell **B4**. You should now see a **1** beside each **dog** and a **2** beside the **cat**.<br>
 
-  <button onclick="toggle('gif2')">Show/Hide Animation</button>
+<button onclick="toggle('gif2')">Show/Hide Animation</button>
 <div id="gif2">
-    <img src="images/excel-functions-09.gif" width="400" alt="Demonstration of Step 10">
-     </div>
+<img src="images/excel-functions-09.gif" width="400" alt="Demonstration of Step 10">
+</div>
 
 6. **VLOOKUP function**: Use VLOOKUP when you need to find things in a table or a range by row. For example, look up the price of a sale item by item name.
   - **Download** [this spreadsheet](docs/dsc-vlookup.xlsx){:target="_blank"} and **Click** on the yellow **Enable Editing** button at the top of the screen.
@@ -64,6 +67,7 @@ Functions are powerful tools that can quickly let you make complex calculations.
   **VLOOKUP(What you want to look up, where you want to look for it, the column number in the range containing the value to return, return an Approximate or Exact match – indicated as 1/TRUE, or 0/FALSE)**
   - In cell **B4**, type: **=VLOOKUP(A4,$D$4:$E$9,2,FALSE)**
 <img src="images/excel-functions-03.png" alt="Visual of the data from step 6.">
+
   - **Copy and paste** the contents of **B4** into **B5 to B10**.
   - **Type** in a few **item names** (like “Dog” or “Seal” for example) from the lookup table in field **A11 and below**.
   - **Copy** cell **B4** and then **select** cells **B11 and below** and **paste** so that each of the items sold you have entered has a price beside them.
@@ -71,10 +75,10 @@ Functions are powerful tools that can quickly let you make complex calculations.
   - **Copy** the **B4** cell, then select cells **B5 to B25** and **paste**.
   - If you would like additional information on the VLOOKUP function here is a [Microsoft tutorial](http://bit.ly/2I4IoiJ){:target="_blank"}
 
-  <button onclick="toggle('gif3')">Show/Hide Animation</button>
+<button onclick="toggle('gif3')">Show/Hide Animation</button>
 <div id="gif3">
-    <img src="images/excel-functions-04.gif" width="400" alt="Demonstration of modifying the formula.">
-     </div>
+<img src="images/excel-functions-04.gif" width="400" alt="Demonstration of modifying the formula.">
+</div>
 
 
 

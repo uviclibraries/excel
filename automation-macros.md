@@ -14,17 +14,20 @@ Macros are a powerful tool that can help you save time by easily automating repe
 1. Before you can record your first macro in Excel, first you need to enable the **Developer** option in the settings (you only have to do this once). This is done in slightly different ways in the Windows & Mac versions of Excel.
 
 2. Enable Developer option in the _**Mac OSX** version of Excel  (you only have to do this once):_
- <img src="images/excel-automation-04.png" style="float:right;width:180px;height:150px;" alt="ribbon and toolbar icon."> 
+
+ <img src="images/excel-automation-04.png" style="float:right;width:180px;height:150px;" alt="ribbon and toolbar icon">
+
   <img src="images/excel-automation-03.png" style="float:right;width:50px;height:50px;" alt="preferences."> 
+
   - On the top left select **Excel > Preferences** 
   - Next, click on the **Ribbon & Toolbar** icon.
   - On the right side under **Customize the Ribbon**, select **Main Tabs** and then check **Developer**.
   - Click **Save** and then close **Excel Preferences**.
   
-  <button onclick="toggle('gif1')">Show/Hide Animation</button>
+<button onclick="toggle('gif1')">Show/Hide Animation</button>
 <div id="gif1">
-    <img src="images/excel-automation-05.gif" alt="Demonstration of step 2.">
-     </div> 
+<img src="images/excel-automation-05.gif" alt="Demonstration of step 2.">
+</div> 
 
  
  
@@ -36,6 +39,7 @@ Macros are a powerful tool that can help you save time by easily automating repe
   - Select **Options** at the bottom of the left-hand menu and then a popup window will appear.
   - Select **Customize Ribbon** on the left navigation bar, then click the check box beside **Developer**. Click **OK** to close the dialogue box.
   - You will now have a developer tab in your ribbon (on the right side).
+
  <img src="images/excel-automation-06.png" alt="Steps of Step 3."> 
  
 4. Now that you’ve enabled the Develop tab on the ribbon, let’s download [this spreadsheet with data for this exercise](https://bit.ly/dsc-pivot-table)
@@ -47,10 +51,10 @@ Macros are a powerful tool that can help you save time by easily automating repe
   <img src="images/excel-automation-07.png" alt="Image of developer and record macro buttons."> 
   - In the Macro name field type: **SortAttendance** (with no space between the words), and then press the **OK** button.<br>
   
-  <button onclick="toggle('gif2')">Show/Hide Animation</button>
+<button onclick="toggle('gif2')">Show/Hide Animation</button>
 <div id="gif2">
-     <img src="images/excel-automation-08.gif" alt="Sorting attendance using formula."> 
-     </div> 
+<img src="images/excel-automation-08.gif" alt="Sorting attendance using formula."> 
+</div> 
 
  
   - Sort by attendance: <img src="images/excel-automation-09.png" style="float:right" width="60" height="60" alt="Sorting icon."><br>
@@ -61,20 +65,20 @@ Macros are a powerful tool that can help you save time by easily automating repe
               - Then click the **OK** button
               <img src="images/excel-automation-10.png" alt="Column drop down."> 
                
-    <button onclick="toggle('gif3')">Show/Hide Animation</button>
+<button onclick="toggle('gif3')">Show/Hide Animation</button>
 <div id="gif3">
-     <img src="images/excel-automation-11.gif" alt="Demonstration of sorting data.">
-     </div> 
+<img src="images/excel-automation-11.gif" alt="Demonstration of sorting data.">
+</div> 
 
                
   - Let’s add a sum of total attendance to the top right of the spreadsheet:
      - In cell E2 type: **Total**<br>
               <img src="images/excel-automation-12.png" alt="Adding a sum total."> 
 
-       <button onclick="toggle('gif4')">Show/Hide Animation</button>
+<button onclick="toggle('gif4')">Show/Hide Animation</button>
 <div id="gif4">
-      <img src="images/excel-automation-13.gif" alt="Demonstration of sum."><br>
-     </div> 
+<img src="images/excel-automation-13.gif" alt="Demonstration of sum."><br>
+</div> 
         
    - In cell F2 type: **=sum(C2:C34)**
   - Save as a macro by clicking on the **Developer** tab in the ribbon, and then click on the **Stop Recording** button.
@@ -82,10 +86,10 @@ Macros are a powerful tool that can help you save time by easily automating repe
   - Save your spreadsheet by going to **File > Save As…** menu and then in the File Format field, select **Excel Macro-Enabled Workbook (.xlsm)**, and press the **Save** button.
   <img src="images/excel-automation-14.png" alt="Saving button."> 
 
-  <button onclick="toggle('gif5')">Show/Hide Animation</button>
+<button onclick="toggle('gif5')">Show/Hide Animation</button>
 <div id="gif5">
-      <img src="images/excel-automation-16.gif" alt="Demonstration of stopping recording and saving."> <br>
-     </div> 
+<img src="images/excel-automation-16.gif" alt="Demonstration of stopping recording and saving."> <br>
+</div> 
 
   
   **Please leave your dsc-pivot-table.xlsx spreadsheet Open in the background as you work through steps 7 and 8 or else you will have problems completing this activity!**
@@ -100,8 +104,8 @@ Macros are a powerful tool that can help you save time by easily automating repe
 
 <button onclick="toggle('gif6')">Show/Hide Animation</button>
 <div id="gif6">
-      <img src="images/excel-automation-19.gif" alt="Editing Macros name."> <br>
-     </div> 
+<img src="images/excel-automation-19.gif" alt="Editing Macros name."> <br>
+</div> 
 
 
 
