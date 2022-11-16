@@ -21,12 +21,13 @@ Pivot Tables are a powerful tool that can help you quickly summarize your data. 
   - Select the **Insert** tab, and then press the **PivotTable** button on the top left of the ribbon.
   - When the PivotTable dialogue box appears, press **OK**.
 
-  <button onclick="toggle('gif1')">Show/Hide Animation</button>
-<div id="gif1">
+   <button onclick="toggle('gif1')">Show/Hide Animation</button>
+  <div id="gif1">
     <img src="images/excel-pivot-03.gif" alt="Demonstration of Step 2."> 
      </div>
 
 3. You now have a blank canvas of a pivot table setup. Let’s add data:
+
 <img src="images/excel-pivot-04.png" style="float:right;width:250px;height:200px;" alt="Selecting workshops and total attendance checkboxes."> 
 
   - Select the **Workshop** and **Total Attendance** checkboxes on the right hand PivotTable Fields toolbar. You now have a list of workshops with a sum of total attendance for each workshop sorted by the workshop name.
@@ -46,6 +47,7 @@ Pivot Tables are a powerful tool that can help you quickly summarize your data. 
 <img src="images/excel-pivot-07.png" alt="Visual of the table with data.">
 
 4. Let’s create a chart:
+
   - Start by un-selecting **Date** in the PivotTable field name area.
   - In the **∑ Values** area, **right mouse click** on Count of Workshop and select **Remove Field**.
   - Sort the Sum of Total Attendance column by clicking on the little arrow facing down (found within the “row labels” cell). Then select “Descending” and sort by the “sum of Total Attendance”. Feel free to try this by selecting “Ascending” instead as well.
