@@ -24,6 +24,7 @@ Functions are powerful tools that can quickly let you make complex calculations.
   - Rows can also be summed. Enter some numbers in cells **A16** to **D16**, and then in cell **A17** type: **=sum(A16:D16)**  After pressing **Enter**, the sum of those four numbers should appear.
   - If you would like additional information on the SUM function, here is a [Microsoft video tutorial](http://bit.ly/2HZ9Jmi){:target="_blank"}
 
+
 3. **INT function**: The INT function rounds a number down to the nearest integer. For example, =INT(5.6789) would return 5
   - If you would like additional information on the INT function here is a [Microsoft tutorial](http://bit.ly/2I2qFIv){:target="_blank"}
 
