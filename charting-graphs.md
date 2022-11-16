@@ -60,6 +60,7 @@ Press OK and the spreadsheet will re-order so that the workshop list is reordere
  
 4. **Freezing rows or Columns**: This is particularly useful on spreadsheets with a lot of data so that you can scroll vertically and horizontally and still see your column and row labels.
 <img src="images/excel-charts-graphs-09.png" style="float:right;width:80px;height:100px;" alt="Freeze panes icon.">
+
   - **Click** on the green **View** tab on the top menu.
   - **Click** on the **Freeze Panes** on the top menu, and then **select Freeze Top Row**. You can now scroll as far as you want vertically and you will always see the labels on your top row.
   - **Click** on the **Freeze Panes** on the top menu, and then select **Freeze First Column**. You can now scroll as far as you want horizontally and you will always see the labels in column A.
@@ -73,6 +74,7 @@ Press OK and the spreadsheet will re-order so that the workshop list is reordere
 
 5. **Pie Chart**:
  <img src="images/excel-charts-graphs-11.png" style="float:right;width:200px;height:200px;" alt="Demonstration of clicking delete to erase a column.">
+
   - Delete column **B** (where you typed “Test” in step 3c) by **right-mouse-clicking** on column **B**, and then **clicking** on **Delete** in the popup menu. 
   - Select all the first two columns in the sheet, by **dragging** from **A1** to **B6**. **Click** on the green **Insert** tab on the top menu.
   - **Click** on the **Recommended Charts Button** on the top menu, and then **select** the **Pie Chart Graph**. **Click OK**.
@@ -121,7 +123,6 @@ Press OK and the spreadsheet will re-order so that the workshop list is reordere
     <img src="images/excel-charts-graphs-16.gif" alt="Demonstration of modifying axis names and titles.">
      </div>
 
-  
   - Click on the new axis label, highlight the current text, and then type **Grade**.<br>
   - Do the same for the horizontal Axis, and type **Homework Assignments Completed**.<br>
   - To change the chart title, double click on the title which is currently “Grade”, and then change it to: **Grade Homework Assignment Correlation**.

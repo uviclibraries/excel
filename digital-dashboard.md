@@ -54,6 +54,7 @@ In this activity, you will create a Digital Dashboard, integrating data from a n
 
 5. Create Visualizations for your most important statistics or key indicators:
  <img src="images/excel-dashboard-08.png" style="float:right" alt="Recommended charts icon."> 
+  
   - Create a bar graph of workshop participants by month by **selecting A3:A7** and then **hold down your ctrl key** (or **command key** on a Mac) and **select C3:C7**.
   - Next, **select** the **Insert tab** at the top of the screen, and then **click** on **Recommended Charts**. The default bar chart should work fine, so **click OK**. Click on the Chart Title and rename it to **Participants**.<br>
   - Create a bar graph of $ printed by month by **selecting A3:A7** and then **hold down your ctrl key** (or **command key** on a mac) and **select E3:E7**.
