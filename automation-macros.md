@@ -6,7 +6,9 @@ parent: Workshop Activities - Intermediate
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
  <img src="images/excel-automation-01.png" style="float:right;width:180px;height:200px;"> 
+
 # Automation with Macros
+
 Macros are a powerful tool that can help you save time by easily automating repetitive tasks in Excel. If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance. 
 
 1. Before you can record your first macro in Excel, first you need to enable the **Developer** option in the settings (you only have to do this once). This is done in slightly different ways in the Windows & Mac versions of Excel.
@@ -27,7 +29,9 @@ Macros are a powerful tool that can help you save time by easily automating repe
  
  
 3. Enable Developer option in _**Windows version of Excel**  (you only have to do this once):_
+
  <img src="images/excel-automation-02.png" style="float:right;width:200px;height:200px;" alt="Select file tab."> 
+
   - Select the main **FILE** tab.
   - Select **Options** at the bottom of the left-hand menu and then a popup window will appear.
   - Select **Customize Ribbon** on the left navigation bar, then click the check box beside **Developer**. Click **OK** to close the dialogue box.

@@ -6,7 +6,9 @@ parent: Workshop Activities - Introduction
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/excel-functions-01.png" style="float:right;width:200px;"> 
+
 # Introduction to Functions
+
 Functions are powerful tools that can quickly let you make complex calculations. If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Here are some functions that are frequently used:
 
 1. Open Excel, and open a **Blank workbook**. 
