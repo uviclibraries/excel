@@ -37,24 +37,24 @@ If you and your group have any questions or get stuck as you work through this i
     <img src="images/excel-basics-05.gif" alt="Demonstration of a substration operation."> 
     </div> 
 
-  - Click on another cell and do the same thing to multiply two or more cells together using the * symbol to multiply.<br>
+   - Click on another cell and do the same thing to multiply two or more cells together using the * symbol to multiply.<br>
   
     <button onclick="toggle('gif3')">Show/Hide Animation</button>
     <div id="gif3">
     <img src="images/excel-basics-06.gif" alt="Demonstration of a multiplication operation."> 
     </div>
 
-  - Click on another cell and do the same thing to divide two or more cells using the / symbol to divide.<br>
+    - Click on another cell and do the same thing to divide two or more cells using the / symbol to divide.<br>
 
 4. **Copying & pasting into ranges** with the default Relative Cell referencing:
-  - In cell **B1** type **5** and then press **Enter**. Click on **B1**, then **select** the **green dot** on the **bottom right of the cell** and **drag it** down to cell **B11**. You should now have a column of 5’s.<br>
+    - In cell **B1** type **5** and then press **Enter**. Click on **B1**, then **select** the **green dot** on the **bottom right of the cell** and **drag it** down to cell **B11**. You should now have a column of 5’s.<br>
 
      <button onclick="toggle('gif4')">Show/Hide Animation</button>
      <div id="gif4">
      <img src="images/excel-basics-07.gif" alt="Demonstration of the first bullet point of number 4."> 
      </div>
 
-  - In cell **C1** enter: **=A1*B1** and press **Enter** (please delete the data currently in column C). Click on **C1**, then **select** the **green dot** on the **bottom right of the cell** and **drag it** down to cell **C11**. You’ve just multiplied all the rows in column A and B and put the result in column C!<br>
+    - In cell **C1** enter: **=A1*B1** and press **Enter** (please delete the data currently in column C). Click on **C1**, then **select** the **green dot** on the **bottom right of the cell** and **drag it** down to cell **C11**. You’ve just multiplied all the rows in column A and B and put the result in column C!<br>
   
     <button onclick="toggle('gif5')">Show/Hide Animation</button>
     <div id="gif5">
@@ -68,12 +68,10 @@ If you and your group have any questions or get stuck as you work through this i
     <div id="gif6">
     <img src="images/excel-basics-09.gif" style="float:right;width:320px;height:320px;" alt="Demonstration of changing cell C to =A1*B$1."> 
     </div>
-
-
-  - **Delete** the contents of columns **B** and **C** **except for the first row** (cells **B1** and **C1**).
-  - **Double-click** on cell **C1**, and then **edit the formula** to look like this: **=A1*B$1**. Press **Enter**.
-  - Click on **C1**, **select** the **green dot** on the **bottom right of the cell** & **drag it** down to cell **C11**.
-  - Read this short guide on cell referencing [view this page](http://bit.ly/2EGE4EY){:target="_blank"}. It will be useful when we work with functions such as VLOOKUP in Activity 3.
+    - **Delete** the contents of columns **B** and **C** **except for the first row** (cells **B1** and **C1**).
+    - **Double-click** on cell **C1**, and then **edit the formula** to look like this: **=A1*B$1**. Press **Enter**.
+    - Click on **C1**, **select** the **green dot** on the **bottom right of the cell** & **drag it** down to cell **C11**.
+    - Read this short guide on cell referencing [view this page](http://bit.ly/2EGE4EY){:target="_blank"}. It will be useful when we work with functions such as VLOOKUP in Activity 3.
 
 6. OPTIONAL: The **Text to Columns** tool can come in handy when you want to split a table of text (like on a web page) into multiple cells. If you’d like more information on converting text to columns, [view this video](http://bit.ly/2HYNA7y){:target="_blank"} 
 
