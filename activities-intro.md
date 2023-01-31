@@ -11,6 +11,7 @@ Please review the following links:
    - OR watch the [Workshop Introduction Video](https://www.youtube.com/watch?v=0LHKWZ18UEc){:target="_blank"}
 - Video: [Resize Your Laptop Screen for Workshop Handouts (2 min)](https://www.youtube.com/watch?v=Igk5hZUfzN0){:target="_blank"}
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=0LHKWZ18UEc" title="Data Analysis with Excel - UVic Libraries DSC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0LHKWZ18UEc" title="Data Analysis with Excel by UVic Libraries Digital Scholarship Commons" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [NEXT STEP: Excel Basics](basics-data-cleaning.html){: .btn .btn-blue }
