@@ -44,8 +44,7 @@ Functions are powerful tools that can quickly let you make complex calculations.
 8. **LEN function**: returns the number of characters in a text string. Eg. Enter **=LEN("test text")** into cell **C3** . This will return **9**, as there are 9 characters in the text string “test text” (a space is a character). 
   - If you would like additional information on the LEN function here is a [Microsoft tutorial](http://bit.ly/2I0lYiA){:target="_blank"}  
 
-9. **IFS function**: Use the IFS function to check whether one or more conditions are met and returns a value that corresponds to the first TRUE condition.
-
+9. **IFS function**: Use the IFS function to check whether one or more conditions are met and returns a value that corresponds to the first TRUE condition.<br>
   <img src="images/excel-functions-08.png" style="float:right;width:240px;" alt="Representation of Column A and Column B.">
   - Create a new sheet (press the **+** button on the bottom of Excel) and in cells **A1** To **A4** type: **dog, dog, cat, dog** as you can see to the right.
   - In cell **B1** Type: **=IF(A1="dog",1,2)** and press the **Enter** key. This formula looks at **A1**, and if **dog** is found then it will return a **1**, and if it is not found then it will return a **2**.
@@ -68,12 +67,10 @@ Functions are powerful tools that can quickly let you make complex calculations.
   - Modify the VLOOKUP formula in the B column to use the IF function so that it ignores all blank fields in the A column, and only uses the VLOOKUP function if there is something in the A column. **Type** the following formula into **B4**: **=IF(A4<>"",VLOOKUP(A4,$D$4:$E$9,2,FALSE),"")**
   - **Copy** the **B4** cell, then select cells **B5 to B25** and **paste**.
   - If you would like additional information on the VLOOKUP function here is a [Microsoft tutorial](http://bit.ly/2I4IoiJ){:target="_blank"}
-  <button onclick="toggle('gif3')">Show/Hide Animation</button>
-  <div id="gif3">
-  <img src="images/excel-functions-04.gif" width="400" alt="Demonstration of modifying the formula.">
-  </div>
-
-
+    <button onclick="toggle('gif3')">Show/Hide Animation</button>
+    <div id="gif3">
+    <img src="images/excel-functions-04.gif" width="400" alt="Demonstration of modifying the formula.">
+    </div>
 
 <script>  
 
