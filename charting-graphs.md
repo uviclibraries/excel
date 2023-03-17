@@ -23,31 +23,26 @@ In this activity, you will produce some graphs and charts in Excel. If you have 
   - Click on the **Sort** button on the top menu (see right). Note: If the sort Filter button is not visible, increase the size of your Excel window so that more tools are displayed on the ribbon.
   - A dialogue box will pop up. Click on the **Column** drop-down, and select **Workshops**.
   - Click on the **Order** drop-down and select **Largest to Smallest**. 
-Press OK and the spreadsheet will re-order so that the workshop list is reordered from most to least number of workshops held.<br>
+  - Press OK and the spreadsheet will re-order so that the workshop list is reordered from most to least number of workshops held.<br>
     <button onclick="toggle('gif1')">Show/Hide Animation</button>
     <div id="gif1">
     <img src="images/excel-charts-graphs-05.gif" alt="Demonstration of Step 2.">
     </div>
  
 3. **Formatting Columns & Rows**:
-  - Make column A wider by grabbing the grey line between columns A & B and dragging it to the right. Try changing the width of a row on your own.
-
+  - Make column A wider by grabbing the grey line between columns A & B and dragging it to the right. Try changing the width of a row on your own. <br>
     <button onclick="toggle('gif2')">Show/Hide Animation</button>
     <div id="gif2">
     <img src="images/excel-charts-graphs-06.gif" alt="Demonstration of Step 3 bullet point 1 grabbing the grey line."> 
     </div>
-
   - Insert a new column by **right-mouse-clicking** on column **B**, and then **clicking** on **Insert** in the popup menu. 
-  - Type **Test** into cell **B1**. Click on **Row 1** and try inserting a row on your own now.
-
+  - Type **Test** into cell **B1**. Click on **Row 1** and try inserting a row on your own now. <br>
     <button onclick="toggle('gif3')">Show/Hide Animation</button>
     <div id="gif3">
     <img src="images/excel-charts-graphs-07.gif" alt="Demonstration of typing Test and inserting new row.">
     </div>
-
   - Hide a column by **right mouse clicking** on column **B**, and then **selecting Hide** from the popup menu. 
   - **Unhide** it by **selecting** columns **A** and **B**, then **right mouse click** on **B** and select Unhide. Note If you don’t have a mouse please double click with your trackpad on the slightly thicker line between column **A** and **C**.<br>
-
     <button onclick="toggle('gif4')">Show/Hide Animation</button>
     <div id="gif4">
     <img src="images/excel-charts-graphs-08.gif" alt="Demonstration of hiding and unhiding rows.">
