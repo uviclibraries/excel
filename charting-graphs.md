@@ -48,7 +48,7 @@ In this activity, you will produce some graphs and charts in Excel. If you have 
     <img src="images/excel-charts-graphs-08.gif" alt="Demonstration of hiding and unhiding rows.">
     </div>
  
-4. **Freezing rows or Columns**: This is particularly useful on spreadsheets with a lot of data so that you can scroll vertically and horizontally and still see your column and row labels. <img src="images/excel-charts-graphs-09.png" style="float:right;width:80px;height:100px;" alt="Freeze panes icon.">
+4. **Freezing rows or Columns**: This is particularly useful on spreadsheets with a lot of data so that you can scroll vertically and horizontally and still see your column and row labels. <img src="images/excel-charts-graphs-09.png" style="float:right;width:80px" alt="Freeze panes icon.">
   - **Click** on the green **View** tab on the top menu.
   - **Click** on the **Freeze Panes** on the top menu, and then **select Freeze Top Row**. You can now scroll as far as you want vertically and you will always see the labels on your top row.
   - **Click** on the **Freeze Panes** on the top menu, and then select **Freeze First Column**. You can now scroll as far as you want horizontally and you will always see the labels in column A.
@@ -57,8 +57,7 @@ In this activity, you will produce some graphs and charts in Excel. If you have 
     <div id="gif5">
     <img src="images/excel-charts-graphs-10.gif" alt="Demonstration of Step 4.">
     </div>
-
-<img src="images/excel-charts-graphs-11.png" style="float:right;width:200px;height:200px;" alt="Demonstration of clicking delete to erase a column.">
+  <img src="images/excel-charts-graphs-11.png" style="float:right;width:200px" alt="Demonstration of clicking delete to erase a column.">
 
 5. **Pie Chart**:
   - Delete column **B** (where you typed “Test” in step 3c) by **right-mouse-clicking** on column **B**, and then **clicking** on **Delete** in the popup menu. 
@@ -76,35 +75,29 @@ In this activity, you will produce some graphs and charts in Excel. If you have 
   - Click on the green **Insert** tab on the top menu.
   - Click on the **Recommended Charts** Button on the top menu, and then scroll down and select the **Clustered Column chart**. Click **OK**.
   - Click on the **Add Chart Element** button, and then mouse over **Trendline**, and select **Linear**. 
-  <img src="images/excel-charts-graphs-13.png" style="float:right;width:80px;height:100px;"> <img src="images/excel-charts-graphs-14.png" style="float:right;width:80px;height:100px;" alt="Add chart element icon"> 
+  <img src="images/excel-charts-graphs-13.png" style="float:right;width:80px;height:100px;"> <img src="images/excel-charts-graphs-14.png" style="float:right;width:80px" alt="Add chart element icon"> 
   - When the dialogue box appears, select **People**, and then press **OK**.
-  - You should now have a chart that looks like the one to the right.
-
+  - You should now have a chart that looks like the one to the right.<br>
     <button onclick="toggle('gif7')">Show/Hide Animation</button>
     <div id="gif7">
     <img src="images/excel-charts-graphs-15.gif" alt="Demonstration of selecting a clustered column chart.">
     </div>
  
 7. **Scatterplot with Trendline:** 
-
   - Download and open [this spreadsheet](docs/dsc-charting-graphs.xlsx){:target="_blank"}  Note: You may have a yellow bar at the top with a button that says **Enable Editing**. Click on that to enable editing.
   - Select cells **A1** to **B46**. 
   - Click on the Insert tab, and then click on the **Recommended Charts** button, and select the first recommended chart which should be a **Scatter** chart. Click **OK**.
   - To add a trendline, click on the **Add Chart Elements** button on the top left toolbar, and then **Trendline** and then **Linear**.
-  - You should now have a Scatter plot chart with a linear trend line.
-
+  - You should now have a Scatter plot chart with a linear trend line.<br>
     <button onclick="toggle('gif8')">Show/Hide Animation</button>
     <div id="gif8">
     <img src="images/excel-charts-graphs-17.gif" alt="Demonstration of adding a linear trendline.">
     </div>
-
-  - To add a label to the vertical axis click on the **Add Chart Elements** button on the top left toolbar, and then **Axis Titles** and then **Primary Vertical**. 
-
+  - To add a label to the vertical axis click on the **Add Chart Elements** button on the top left toolbar, and then **Axis Titles** and then **Primary Vertical**. <br>
     <button onclick="toggle('gif9')">Show/Hide Animation</button>
     <div id="gif9">
     <img src="images/excel-charts-graphs-16.gif" alt="Demonstration of modifying axis names and titles.">
     </div>
-
   - Click on the new axis label, highlight the current text, and then type **Grade**.<br>
   - Do the same for the horizontal Axis, and type **Homework Assignments Completed**.<br>
   - To change the chart title, double click on the title which is currently “Grade”, and then change it to: **Grade Homework Assignment Correlation**.
