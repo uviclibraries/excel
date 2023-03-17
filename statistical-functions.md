@@ -20,7 +20,7 @@ Statistical Functions are powerful tools that can quickly let you make complex c
 2. **AVERAGE function (Mean)**: Returns the arithmetic mean of a range of numbers.<br>
     <button onclick="toggle('gif1')">Show/Hide Animation</button>
     <div id="gif1">
-    <img src="images/excel-statistical-03.gif" style="float:right;width:250px;height:250px" alt="Demonstration of Step 2"> 
+    <img src="images/excel-statistical-03.gif" style="width:400px" alt="Demonstration of Step 2"> 
     </div>
   - Enter in **A13**: **Mean**
   - Enter in **A14** the formula **=AVERAGE(A1:A11)** and then press the **Enter** key. 
@@ -29,7 +29,7 @@ Statistical Functions are powerful tools that can quickly let you make complex c
 3. **MEDIAN function**: Returns the median of the given numbers. The median is the number in the middle of a set of numbers.<br>
     <button onclick="toggle('gif2')">Show/Hide Animation</button>
     <div id="gif2">
-    <img src="images/excel-statistical-04.gif" style="float:right;width:250px;height:250px" alt="Demonstration of Step 3"> 
+    <img src="images/excel-statistical-04.gif" style="width:400px" alt="Demonstration of Step 3"> 
     </div>
   - Enter in **B13**: **Median**
   - Enter in **B14** the formula **=MEDIAN(A1:A11)** and then press the **Enter** key. 
