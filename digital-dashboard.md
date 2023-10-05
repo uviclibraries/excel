@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 7 - Digital Dashboards
-nav_order: 9
+nav_order: 10
 parent: Workshop Activities - Intermediate
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
