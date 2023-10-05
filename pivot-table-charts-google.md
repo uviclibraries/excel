@@ -5,7 +5,7 @@ nav_order: 8
 parent: Workshop Activities - Intermediate
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
-<img src="images/google-sheets-icon.png" style="float:right;width:250px;height:200px;"> 
+<img src="images/google-sheets-icon.png" style="float:right;width:250px;"> 
 
 # Pivot Tables and Charts
 
