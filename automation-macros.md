@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 6 - Automation with Macros
-nav_order: 8
+nav_order: 9
 parent: Workshop Activities - Intermediate
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
