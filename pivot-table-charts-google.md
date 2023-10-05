@@ -5,7 +5,7 @@ nav_order: 8
 parent: Workshop Activities - Intermediate
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
-<img src="images/google-sheets-icon.png" style="float:right;width:250px;"> 
+<img src="images/google-sheets-icon.png" style="float:right;width:200px;"> 
 
 # Pivot Tables and Charts
 
@@ -22,6 +22,9 @@ Pivot Tables are a powerful tool that can help you quickly summarize your data. 
   - When the PivotTable dialogue box appears, press **OK**.
 
    <button onclick="toggle('gif1')">Show/Hide Animation</button>
+   <div id="gif1">
+   <img src="images/gif-test.gif" alt="Delete Me"> 
+   </div>
    <div id="gif1">
    <img src="images/excel-pivot-03.gif" alt="Demonstration of Step 2."> 
    </div>
