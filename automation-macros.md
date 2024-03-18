@@ -92,7 +92,7 @@ Macros are a powerful tool that can help you save time by easily automating repe
 </div> 
 
   
-  **Please leave your dsc-pivot-table.xlsx spreadsheet Open in the background as you work through steps 7 and 8 or else you will have problems completing this activity!**
+  **Please leave your dsc-pivot-table.xlsx spreadsheet Open in the background as you work through steps 7 and 8 or else you will have problems completing this activity! Also don't change the tab name in the Marcro and new spreadsheet as that will cause errors when you run the macro.**
 
 7. Use the Macro on a different spreadsheet to sort it by attendance and sum the attendance:
   - [Download spreadsheet](docs/dsc-october.xlsx){:target="_blank"} (while keeping the spreadsheet you created the macro in open in the background)
