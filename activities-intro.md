@@ -4,7 +4,7 @@ title: Activities Introduction
 nav_order: 2
 parent: Workshop Activities - Introduction
 ---
-# Hands-On Activities Introduction
+# Activities Introduction
 
 Please review the following links:
 - Read the [Introductory Slides](https://docs.google.com/presentation/d/1hjgyXWqlEb3NijemjMQwqBDszmIAMjI3TJn58lE0Mm8/edit#slide=id.g7d261d3503_1_0){:target="_blank"} 
