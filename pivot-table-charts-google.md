@@ -1,8 +1,6 @@
 ---
 layout: default
 title: 5b - Pivot Tables & Charts for Google Sheets
-nav_order: 8
-parent: Workshop Activities - Intermediate
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/google-sheets-icon.png" style="float:right;width:200px;"> 
