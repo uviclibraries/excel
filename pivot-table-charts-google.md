@@ -1,11 +1,6 @@
----
-layout: default
-title: 5b - Pivot Tables & Charts for Google Sheets
-customjs: http://code.jquery.com/jquery-1.4.2.min.js
----
 <img src="images/google-sheets-icon.png" style="float:right;width:200px;"> 
 
-# Pivot Tables and Charts
+# Pivot Tables & Charts for Google Sheets
 
 Pivot Tables are a powerful tool that can help you quickly summarize your data. If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance. 
 
