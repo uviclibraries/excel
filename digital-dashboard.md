@@ -62,7 +62,7 @@ In this activity, you will create a Digital Dashboard, integrating data from a n
   -	Automatically highlight your most important values by **selecting E4:E7**
   -	Next, **select** the **Home tab** if it’s not already selected, and then **click** on **Conditional Formatting**. Within the dropdown menu, **click** on **Highlight Cell Rules**, then **click** on **Less than…**
   - Within the following dialog, **type 100** into the **left box**. Then **click OK**.
-  -	The value of $35.95 should now be highlighted red.
+  -	The value of 35.95 should now be highlighted red.
   -	While **E4:E7** are still selected, **click** on **Conditional Formatting**. Within the dropdown menu, **click** on **Highlight Cell Rules**, then **click** on **Greater than…**
   -	Within the following dialog, **click** _“Light Red Fill with Dark Red Text”_ to display other options and **click** _“Green Fill with Dark Green Text.”_ Then **type 500** into the **left box**. Then **click OK.**
   -	The value of 702.32 should now be highlighted green.<br>
