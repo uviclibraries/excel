@@ -23,34 +23,32 @@ In this activity, you will create a Digital Dashboard, integrating data from a n
   - In the rows **under month** column **type: Sept, Oct, Nov, Dec** (see right).
   - Add the number of workshops from each month to the Dashboard sheet: In cell **B4** type: **=** then **click** on the **Workshop by Month** tab, and **select** cell **B5**, then press **Enter**. Do the same for October, November, & December.<br>
 
-   <button onclick="toggle('gif1')">Show/Hide Animation</button>
-   <div id="gif1">
-   <img src="images/excel-dashboard-04.gif" alt="Demonstration of adding the number of workshops for each month."> 
-   </div>
+    <button onclick="toggle('gif1')">Show/Hide Animation</button>
+    <div id="gif1">
+    <img src="images/excel-dashboard-04.gif" alt="Demonstration of adding the number of workshops for each month."> 
+    </div>
 
- 
   - Add the number of participants from each month on the Dashboard sheet: In cell **C4** type: **=** then **click** on the **Workshop by Month** tab, and **select** cell **C5**, then **Enter**. Do the same for October, November, & December.<br>
 
-   <button onclick="toggle('gif2')">Show/Hide Animation</button>
-   <div id="gif2">
-   <img src="images/excel-dashboard-05.gif" alt="Demonstration of adding the number of participants."> 
-   </div>
+    <button onclick="toggle('gif2')">Show/Hide Animation</button>
+    <div id="gif2">
+    <img src="images/excel-dashboard-05.gif" alt="Demonstration of adding the number of participants."> 
+    </div>
 
-  
   - Add the number of print jobs from each month on the Dashboard:  In cell **D4** tupe: **=** then **click** on the **Print by Month** tab, and **select** cell **B4**, then press **Enter**. Do the same for October, November, & December.<br>
 
-   <button onclick="toggle('gif3')">Show/Hide Animation</button>
-   <div id="gif3">
-   <img src="images/excel-dashboard-06.gif" alt="Demonstration of adding the number of print jobs."> 
-   </div>
+    <button onclick="toggle('gif3')">Show/Hide Animation</button>
+    <div id="gif3">
+    <img src="images/excel-dashboard-06.gif" alt="Demonstration of adding the number of print jobs."> 
+    </div>
 
    
   - Add the dollar value of print jobs from each month on the Dashboard: In cell **E4** type: **=** then click on the **Print by Month** tab, and select cell **C4**, then press **Enter**. Do the same for October, November, & December.<br>  
 
-   <button onclick="toggle('gif4')">Show/Hide Animation</button>
-  <div id="gif4">
-  <img src="images/excel-dashboard-07.gif" alt="Demonstration of adding the dollar value for each month.">
-  </div>
+    <button onclick="toggle('gif4')">Show/Hide Animation</button>
+    <div id="gif4">
+    <img src="images/excel-dashboard-07.gif" alt="Demonstration of adding the dollar value for each month.">
+    </div>
 
 5. Create Visualizations for your most important statistics or key indicators:
   <img src="images/excel-dashboard-08.png" style="float:right" alt="Recommended charts icon."> 
@@ -65,15 +63,29 @@ In this activity, you will create a Digital Dashboard, integrating data from a n
     <img src="images/excel-dashboard-10.gif" alt="Demonstration of inserting recommended chart and change title.">
     </div>
 
- 
- 
 6. Now when you enter additional data into either your **Workshop Data** or **Print Data** sheets, your Dashboard sheet summary numbers and charts will update automatically!<br>
   <img src="images/excel-dashboard-11.png" alt="Image of Digital dashboard chart."> 
 
   <img src="images/excel-dashboard-12.png" alt="Digital Dashboard visual."> 
   
-_Great job!_<br>
+_Great job!_ <br>
 
+7. _(Optional):_ Add Conditional Formatting to highlight key values in your spreadsheet
+  -	Automatic highlight your most important values by **selecting E4:E7**
+  -	Next, **select** the **Home tab** if it’s not already selected, and then **click** on **Conditional Formatting**. Within the dropdown menu, **click** on **Highlight Cell Rules**, then **click** on **Less than…**
+  - Within the following dialog, **type 100** into the **left box**. Then **click OK**.
+  -	The value of $35.95 should now be highlighted red.
+  -	While **E4:E7** are still selected, **click** on **Conditional Formatting**. Within the dropdown menu, **click** on **Highlight Cell Rules**, then **click** on **Greater than…**
+  -	Within the following dialog, **click** _“Light Red Fill with Dark Red Text”_ to display other options and **click** _“Green Fill with Dark Green Text.”_ Then **type 500** into the **left box**. Then **click OK.**
+  -	The value of 702.32 should now be highlighted green.
+
+    <button onclick="toggle('gif6')">Show/Hide Animation</button>
+    <div id="gif6">
+    <img src="images/excel-dashboard-13.gif" alt="Demonstration of adding conditional formatting to a data set.">
+    </div>
+<br>
+  <img src="images/excel-dashboard-14.png" alt="Conditional Formatting visual."> 
+<br>
 <script>  
 
     function toggle(input) {
