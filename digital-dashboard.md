@@ -60,16 +60,16 @@ In this activity, you will create a Digital Dashboard, integrating data from a n
   
 
 7. _(Optional):_ Add Conditional Formatting to highlight key values in your spreadsheet
-  -	Automatic highlight your most important values by **selecting E4:E7**
+  -	Automatically highlight your most important values by **selecting E4:E7**
   -	Next, **select** the **Home tab** if it’s not already selected, and then **click** on **Conditional Formatting**. Within the dropdown menu, **click** on **Highlight Cell Rules**, then **click** on **Less than…**
   - Within the following dialog, **type 100** into the **left box**. Then **click OK**.
   -	The value of $35.95 should now be highlighted red.
   -	While **E4:E7** are still selected, **click** on **Conditional Formatting**. Within the dropdown menu, **click** on **Highlight Cell Rules**, then **click** on **Greater than…**
   -	Within the following dialog, **click** _“Light Red Fill with Dark Red Text”_ to display other options and **click** _“Green Fill with Dark Green Text.”_ Then **type 500** into the **left box**. Then **click OK.**
-  -	The value of 702.32 should now be highlighted green.
+  -	The value of 702.32 should now be highlighted green.<br>
     <button onclick="toggle('gif6')">Show/Hide Animation</button>
     <div id="gif6">
-    <img src="images/excel-dashboard-13.gif" alt="Demonstration of adding conditional formatting to a data set.">
+    <img src="images/excel-dashboard-13.gif" alt="Demonstration of adding conditional formatting to a data set." width="433">
     </div>
     <img src="images/excel-dashboard-14.png" alt="Conditional Formatting visual."> 
 _Great job!_ <br>
