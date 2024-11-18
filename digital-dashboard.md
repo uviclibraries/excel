@@ -7,7 +7,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 # Creating a Digital Dashboard
 In this activity, you will create a Digital Dashboard, integrating data from a number of sheets and pivot tables. If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!<br><br>
-<img src="images/excel-dashboard-01.png" style="float:right" alt="Dashboard."><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img src="images/excel-dashboard-01.png" style="float:right" alt="Dashboard."><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 1. **Download & open** [this spreadsheet with data for this exercise](docs/dsc-dashboard.xlsx){:target="_blank"}. **Click** on the yellow **Enable Editing** button at the top of the screen.
 
