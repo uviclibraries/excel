@@ -40,7 +40,7 @@ Macros are a powerful tool that can help you save time by easily automating repe
 
     <img src="images/excel-automation-06.png" alt="Steps of Step 3."> 
  
-4. Now that you’ve enabled the Develop tab on the ribbon, let’s download [this spreadsheet with data for this exercise](https://bit.ly/dsc-pivot-table){:target="_blank"}
+4. Now that you’ve enabled the Develop tab on the ribbon, let’s download [this spreadsheet with data for this exercise](images/dsc-pivot-table.xlsx){:target="_blank"}
 
 5. Open the **dsc-pivot-table.xlsx** spreadsheet that you just downloaded. Note: You may have a yellow bar at the top with a button that says **Enable Editing**. Click on the button to enable editing.
 
