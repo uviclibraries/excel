@@ -24,7 +24,7 @@ If you’d like to earn the **Intermediate to Data Analysis with Excel** badge, 
 4. Macros
 5. Digital Dashboards
 
-_Please note that you can earn both badges by sending all the speadsheets listed above to [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}_.
+_Please note that you can earn both badges by sending all the spreadsheets listed above to [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}_.
 
 ### Learn how you can share your DSC Badge
 To learn more about DSC badges and how you can share your them on LinkedIn profile, personal website, or resume, check our [DSC Badges webpage](https://onlineacademiccommunity.uvic.ca/dsc/badges/){:target="_blank"}.
