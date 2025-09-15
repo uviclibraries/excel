@@ -46,22 +46,21 @@ If you and your group have any questions or get stuck as you work through this i
 
     - Click on another cell and do the same thing to divide two or more cells using the / symbol to divide.<br>
 
-4. **Copying & pasting into ranges** with the default Relative Cell referencing:
-    - In cell **B1** type **5** and then press **Enter**. Click on **B1**, then **select** the **green dot** on the **bottom right of the cell** and **drag it** down to cell **B11**. You should now have a column of 5’s.<br>
-
      <button onclick="toggle('gif4')">Show/Hide Animation</button>
      <div id="gif4">
      <img src="images/excel-basics-07.gif" alt="Demonstration of the first bullet point of number 4."> 
      </div>
 
-    - In cell **C1** enter: **=A1*B1** and press **Enter** (please delete the data currently in column C). Click on **C1**, then **select** the **green dot** on the **bottom right of the cell** and **drag it** down to cell **C11**. You’ve just multiplied all the rows in column A and B and put the result in column C!<br>
-  
+4. **Copying & pasting into ranges** with the default Relative Cell referencing:
+    - In cell **B1** type **5** and then press **Enter**. Click on **B1**, then **select** the **green dot** on the **bottom right of the cell** and **drag it** down to cell **B11**. You should now have a column of 5’s.<br>
+
     <button onclick="toggle('gif5')">Show/Hide Animation</button>
     <div id="gif5">
     <img src="images/excel-basics-08.gif" alt="Demonstration of the second bullet point of number 4."> 
     </div>
 
-
+    - In cell **C1** enter: **=A1*B1** and press **Enter** (please delete the data currently in column C). Click on **C1**, then **select** the **green dot** on the **bottom right of the cell** and **drag it** down to cell **C11**. You’ve just multiplied all the rows in column A and B and put the result in column C!<br>
+  
 5. Relative cell referencing is the default. Here is how you make an **Absolute Cell Reference**:
 
     <button onclick="toggle('gif6')">Show/Hide Animation</button>
