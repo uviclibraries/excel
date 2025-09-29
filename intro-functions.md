@@ -13,7 +13,7 @@ Functions are powerful tools that can quickly let you make complex calculations.
 
 1. Open Excel, and open a **Blank workbook**. 
   - Enter number **5** into Cell **A1** in your spreadsheet, and then press **Enter** on your keyboard.
-  - Enter the following numbers in Column A below the number 5 you just entered: **6, 8, 3, 1, 9, 5, 4, 7, 5, 6**.  We will use this list of numbers for the rest of this exercise.
+  - If you are starting fresh from this activity, enter the following numbers in Column A below the number 5 you just entered: **6, 8, 3, 1, 9, 5, 4, 7, 5, 6**. These are the same numbers from Activity 1, so you can reuse them if have already typed them. We will use this list of numbers for the rest of this exercise.
 
 2. **SUM function:** The sum function quickly and easily adds up a range of numbers for you.
   - In cell **A13** type: **=sum(A1:A11)** and press **Enter** on your keyboard. Cell **A13** should now have the number **59** in it.<br>
