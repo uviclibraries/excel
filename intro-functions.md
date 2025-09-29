@@ -11,9 +11,9 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 Functions are powerful tools that can quickly let you make complex calculations. If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Here are some functions that are frequently used:
 
-1. Open Excel, and open a **Blank workbook**. 
-  - Enter number **5** into Cell **A1** in your spreadsheet, and then press **Enter** on your keyboard.
-  - If you are starting fresh from this activity, enter the following numbers in Column A below the number 5 you just entered: **6, 8, 3, 1, 9, 5, 4, 7, 5, 6**. These are the same numbers from Activity 1, so you can reuse them if have already typed them. We will use this list of numbers for the rest of this exercise.
+1. Open Excel, and open a **Blank workbook**.
+  - If you are starting fresh from this activity, enter number **5** into Cell **A1** in your spreadsheet, and then press **Enter** on your keyboard. Enter the following numbers in Column A below the number 5 you just entered: **6, 8, 3, 1, 9, 5, 4, 7, 5, 6**. We will use this list of numbers for the rest of this exercise.
+  - If you are continuing from previous activities, these are the same numbers as before, so you can just copy and paste them if you prefer. If needed, [here](https://support.microsoft.com/en-us/office/move-or-copy-cells-rows-and-columns-3ebbcafd-8566-42d8-8023-a2ec62746cfc){:target="_blank"}'s a quick video with instructions on how to copy and paste (start at the 48s mark)
 
 2. **SUM function:** The sum function quickly and easily adds up a range of numbers for you.
   - In cell **A13** type: **=sum(A1:A11)** and press **Enter** on your keyboard. Cell **A13** should now have the number **59** in it.<br>
