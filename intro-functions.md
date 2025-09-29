@@ -55,7 +55,7 @@ Functions are powerful tools that can quickly let you make complex calculations.
     </div>
 
 10. **VLOOKUP function**: Use VLOOKUP when you need to find things in a table or a range by row. For example, look up the price of a sale item by item name.
-  - **Download** [this spreadsheet](docs/dsc-vlookup.xlsx){:target="_blank"} and **Click** on the yellow **Enable Editing** button at the top of the screen.
+  - **Download** [this spreadsheet](docs/dsc-vlookup.xlsx){:target="_blank"} and open it in Microsoft Excel. If needed, **click** on the yellow **Enable Editing** button at the top of the screen..
   - The basic structure of the VLOOKUP function:
   **VLOOKUP(What you want to look up, where you want to look for it, the column number in the range containing the value to return, return an Approximate or Exact match – indicated as 1/TRUE, or 0/FALSE)**
   - In cell **B4**, type: **=VLOOKUP(A4,$D$4:$E$9,2,FALSE)**
