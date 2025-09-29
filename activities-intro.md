@@ -6,7 +6,8 @@ parent: Workshop Activities - Introduction
 ---
 # Activities Introduction
 
-Please review the following if you are working through the workshop materials without attending a live event:
+Please review the following if you are working through the workshop materials without attending a live event. If you are attending a zoom or in-person workshop, the presentation will be given at the start of the workshop.
+
 - Watch the Workshop Introduction Video (10 min)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0LHKWZ18UEc" title="Data Analysis with Excel by UVic Libraries Digital Scholarship Commons" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 - **-OR-** Read the [Introductory Slides](https://docs.google.com/presentation/d/1m9pCZ2g_ErpzakX14u5IQV0BRyE-HPUeD-EM_3Qwflw/){:target="_blank"} 
