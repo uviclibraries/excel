@@ -14,8 +14,8 @@ Statistical Functions are powerful tools that can quickly let you make complex c
 <img src="images/excel-statistical-02.png" style="float:right;width:150px;height:225px" alt="Image of Step 1 Data"> 
 
 1. Open Excel, and open a **Blank workbook**.
-  - Enter number **5** into cell **A1** in your spreadsheet, and then press **Enter** on your keyboard.
-  - Enter the following numbers in Column A below the number 5 you just entered: **6, 8, 3, 1, 9, 5, 4, 7, 5, 6**.  We will use this list of numbers for the rest of this exercise.
+  - If you are starting fresh from this activity, enter number **5** into Cell **A1** in your spreadsheet, and then press **Enter** on your keyboard. Enter the following numbers in Column A below the number 5 you just entered: **6, 8, 3, 1, 9, 5, 4, 7, 5, 6**. We will use this list of numbers for the rest of this exercise.
+  - If you are continuing from previous activities, these are the same numbers as before, so you can just copy and paste them if you prefer. If needed, [here](https://support.microsoft.com/en-us/office/move-or-copy-cells-rows-and-columns-3ebbcafd-8566-42d8-8023-a2ec62746cfc){:target="_blank"}'s a quick video with instructions on how to copy and paste (start at the 48s mark).
 
 2. **AVERAGE function (Mean)**: Returns the arithmetic mean of a range of numbers.<br>
     <button onclick="toggle('gif1')">Show/Hide Animation</button>
