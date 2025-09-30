@@ -66,6 +66,7 @@ Below, we go through some functions that are frequently used:
 11. **XLOOKUP function**: Use XLOOKUP when you need to find things in a table or a range by row. For example, look up the price of a sale item by item name.
   - **Download** [this spreadsheet](docs/dsc-vlookup.xlsx){:target="_blank"} and open it in Microsoft Excel. If needed, **click** on the yellow **Enable Editing** button at the top of the screen..
   - The basic structure of the XLOOKUP function:
+
     **XLOOKUP(what you want to look up, where you want to look for it, what you want to be returned, what to return if
     not match if found - optional, specify appropriate or exact match - optional)**
     
@@ -76,6 +77,7 @@ Below, we go through some functions that are frequently used:
   <img src="images/excel-functions-03.png" alt="Visual of the data from step 6.">
 
   - **Copy and paste** the contents of **B4** into **B5 to B10**. You can do this by clicking on B4 and dragging the box all the way to B10.
+    
     NOTE: This is an example where making an absolute cell reference is important. If you had not locked the references for the Item and Price columns in cell B4 using **$**, as you copied the content down, the relative reference of cells in Excel would automatically apply, and Excel would shift down the cells where you are looking up values and finding values to return. This would cause problems. What you want when copying the content of B4 down is to shift down **the value** you are looking for, but not **where** you are looking for it or finding the value to return. After copying and pasting the content, click on cell B10, and check what its content is. It should be **=XLOOKUP(A10,$D$4:$D$9,$E$4:$E$9)**.
     
   - **Type** in a few **item names** (like “Dog” or “Seal” for example) from the lookup table in field **A11 and below**.
