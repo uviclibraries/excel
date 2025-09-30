@@ -111,6 +111,7 @@ You may have the Analysis ToolPack install already. You can check to see if that
 3. In the Add-Ins box, check the Analysis ToolPak check box, and then click OK.
 4. If Analysis ToolPak is not listed in the Add-Ins available box, click Browse to locate it.
 5. If you are prompted that the Analysis ToolPak is not currently installed on your computer, click Yes to install it.
+6. Now there should be a "Data Analysis" button in the Data tab.
 
 **macOS**:
 1. Click the Tools menu, and then click Excel Add-ins.
