@@ -8,7 +8,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 <img src="images/excel-charts-graphs-01.png" style="float:right;width:300px;" alt="Examples of different types of charts."> 
 
 # Charting, Graphs and More with Excel
-In this activity, you will produce some graphs and charts in Excel. If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
+In this activity, you will produce some graphs and charts in Excel, as well as how to format them to make them look good. Before that, we will also go over how to format your sheet so that you can visualize your data well, and therefore know what you want to plot. If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
 1. Let’s start by getting a new spreadsheet setup. 
   - At the very bottom of the spreadsheet, beside the **Sheet 1** tab, click on the **+** button to create a new sheet.
@@ -48,18 +48,7 @@ In this activity, you will produce some graphs and charts in Excel. If you have 
     <img src="images/excel-charts-graphs-08.gif" alt="Demonstration of hiding and unhiding rows.">
     </div>
  
-4. **Freezing rows or Columns**: This is particularly useful on spreadsheets with a lot of data so that you can scroll vertically and horizontally and still see your column and row labels. <img src="images/excel-charts-graphs-09.png" style="float:right;width:80px" alt="Freeze panes icon.">
-  - **Click** on the green **View** tab on the top menu.
-  - **Click** on the **Freeze Panes** on the top menu, and then **select Freeze Top Row**. You can now scroll as far as you want vertically and you will always see the labels on your top row.
-  - **Click** on the **Freeze Panes** on the top menu, and then select **Freeze First Column**. You can now scroll as far as you want horizontally and you will always see the labels in column A.
-
-    <button onclick="toggle('gif5')">Show/Hide Animation</button>
-    <div id="gif5">
-    <img src="images/excel-charts-graphs-10.gif" alt="Demonstration of Step 4.">
-    </div>
-  <img src="images/excel-charts-graphs-11.png" style="float:right;width:200px" alt="Demonstration of clicking delete to erase a column.">
-
-5. **Pie Chart**:
+4. **Pie Chart**:
   - Delete column **B** (where you typed “Test” in step 3c) by **right-mouse-clicking** on column **B**, and then **clicking** on **Delete** in the popup menu. 
   - Select all the first two columns in the sheet, by **dragging** from **A1** to **B6**. **Click** on the green **Insert** tab on the top menu.
   - **Click** on the **Recommended Charts Button** on the top menu, and then **select** the **Pie Chart Graph**. **Click OK**.
@@ -70,7 +59,7 @@ In this activity, you will produce some graphs and charts in Excel. If you have 
     <img src="images/excel-charts-graphs-12.gif" alt="Demonstration of selecting a pie chart.">
     </div>
  
-6. **Bar Chart with trendline**:
+5. **Bar Chart with trendline**:
   - Select all the cells in the sheet, by dragging from **A1 to C6**.
   - Click on the green **Insert** tab on the top menu.
   - Click on the **Recommended Charts** Button on the top menu, and then scroll down and select the **Clustered Column chart**. Click **OK**.
@@ -83,7 +72,7 @@ In this activity, you will produce some graphs and charts in Excel. If you have 
     <img src="images/excel-charts-graphs-15.gif" alt="Demonstration of selecting a clustered column chart.">
     </div>
  
-7. **Scatterplot with Trendline:** 
+6. **Scatterplot with Trendline:** 
   - Download and open [this spreadsheet](docs/dsc-charting-graphs.xlsx){:target="_blank"}  Note: You may have a yellow bar at the top with a button that says **Enable Editing**. Click on that to enable editing.
   - Select cells **A1** to **B46**. 
   - Click on the Insert tab, and then click on the **Recommended Charts** button, and select the first recommended chart which should be a **Scatter** chart. Click **OK**.
@@ -103,9 +92,9 @@ In this activity, you will produce some graphs and charts in Excel. If you have 
   - To change the chart title, double click on the title which is currently “Grade”, and then change it to: **Grade Homework Assignment Correlation**.
 
 OPTIONAL:
-8. **Histogram**:  [Instructions](http://bit.ly/2I78FNh){:target="_blank"} for how to create a Histogram chart.
-9. **Line Chart**: [Instructions](http://bit.ly/2HXiIEk){:target="_blank"} for how to create a Line chart.
-10. **Box & Whisker**: [Instructions](http://bit.ly/2I90O1w){:target="_blank"} for how to create a Box and Whisker chart
+7. **Histogram**:  [Instructions](http://bit.ly/2I78FNh){:target="_blank"} for how to create a Histogram chart.
+8. **Line Chart**: [Instructions](http://bit.ly/2HXiIEk){:target="_blank"} for how to create a Line chart.
+9. **Box & Whisker**: [Instructions](http://bit.ly/2I90O1w){:target="_blank"} for how to create a Box and Whisker chart
 
 <script>  
 
