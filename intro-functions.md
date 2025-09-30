@@ -66,17 +66,17 @@ Below, we go through some functions that are frequently used:
 11. **XLOOKUP function**: Use XLOOKUP when you need to find things in a table or a range by row. For example, look up the price of a sale item by item name.
   - **Download** [this spreadsheet](docs/dsc-vlookup.xlsx){:target="_blank"} and open it in Microsoft Excel. If needed, **click** on the yellow **Enable Editing** button at the top of the screen..
   - The basic structure of the XLOOKUP function:
-  **XLOOKUP(what you want to look up, where you want to look for it, what you want to be returned, what to return if
+    **XLOOKUP(what you want to look up, where you want to look for it, what you want to be returned, what to return if
     not match if found - optional, specify appropriate or exact match - optional)**
     
-  - For example, in the downloaded spreadsheet, you have a list of items sold, where the same item can be sold more than once. You also have a table showing the price of each item. Imagine you want to add the price of each item sold to be able to calculate the total amount sold. That is when the XLOOKUP function comes in handy. You can tell Excel to look up the name of the item (what you want to look up) in the Item column of the price table (where you want to look for it) and return the value that appears the Price column for the same row (what you want to be returned).
+  - For example, in the downloaded spreadsheet, you have a list of items sold, where the same item can be sold more than once. You also have a table showing the price of each item. Imagine you want to add the price of each item sold to be able to calculate the total amount sold. That is when the XLOOKUP function comes in. You can tell Excel to look up the name of the item (what you want to look up) in the Item column of the price table (where you want to look for it) and return the value that appears in the Price column for the same row (what you want to be returned).
 
   - To do this, in cell **B4**, type: **=XLOOKUP(A4,$D$4:$D$9,$E$4:$E$9)**, as shown in the figure below. Instead of
-    typing, you can also select the cells specified, just remember to add the "$" sign to lock the reference.
+    typing, you can also select the cells specified, just remember to add the "$" sign to create absolute cell references.
   <img src="images/excel-functions-03.png" alt="Visual of the data from step 6.">
 
   - **Copy and paste** the contents of **B4** into **B5 to B10**. You can do this by clicking on B4 and dragging the box all the way to B10.
-      NOTE: This is an example where making an absolute cell reference is important. If you had not locked the references for the Item and Price columns in cell B4 using **$**, as you copied the content down, the relative reference of cells in Excel would automatically apply, and Excel would shift down the cells where you are looking up values and finding values to return. This would cause problems. What you want when copying the content of B4 down is to shift down **the value** you are looking for, but not **where** you are looking for it or finding the value to return. After copying and pasting the content, click on cell B10, and check what its content is. It should be **=XLOOKUP(A10,$D$4:$D$9,$E$4:$E$9)**.
+    NOTE: This is an example where making an absolute cell reference is important. If you had not locked the references for the Item and Price columns in cell B4 using **$**, as you copied the content down, the relative reference of cells in Excel would automatically apply, and Excel would shift down the cells where you are looking up values and finding values to return. This would cause problems. What you want when copying the content of B4 down is to shift down **the value** you are looking for, but not **where** you are looking for it or finding the value to return. After copying and pasting the content, click on cell B10, and check what its content is. It should be **=XLOOKUP(A10,$D$4:$D$9,$E$4:$E$9)**.
     
   - **Type** in a few **item names** (like “Dog” or “Seal” for example) from the lookup table in field **A11 and below**.
   - **Copy** cell **B4** and then **select** cells **B11 and below** and **paste** so that each of the items sold you have
