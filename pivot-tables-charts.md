@@ -9,7 +9,20 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 # Pivot Tables and Charts
 
-Pivot Tables are a powerful tool that can help you quickly summarize your data. If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance. 
+If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance. 
+
+Pivot Tables are a powerful tool that can help you quickly and dynamically summarize or consolidate data. Pivot tables can:
+- Group items/records/rows into categories, 
+- Count the number of items in each category,
+- Sum the value of items,
+- Compute averages, find minimal or maximal values, etc.
+- Help you normalize your data, as spelling inconsistencies typically become very obvious.
+  
+For example, if you have a spreadsheet of workshop attendance data, you can summarize it so you can easily see how many workshops were held, and the total number of participants across all the workshops. In the figure below, from the spreadsheet on the left, you could easily create the pivot table on the right:
+
+<img src="images/excel-pivot-13.png" alt="Pivot table example">
+
+Now let's see how to create one!
 
 1. Download [this spreadsheet with data for this exercise](docs/dsc-pivot-table.xlsx){:target="_blank"} Note: You may have a yellow bar at the top with a button that says **Enable Editing**. Click on that to enable editing.
 
