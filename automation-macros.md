@@ -9,7 +9,9 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 # Automation with Macros
 
-Macros are a powerful tool that can help you save time by easily automating repetitive tasks in Excel. If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance. 
+If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.
+
+Macros are a powerful tool that can help you save time by easily automating repetitive tasks in Excel. Macros work by recording a set of actions (i.e., clicks and keystrokes) in Excel. When you create a macro, you tell Excel to record the exact actions that you are doing. Later, if you want to do the same actions, you can just tell Excel to run the macro, instead of having to repeat the same actions again and again.
 
 1. Before you can record your first macro in Excel, first you need to enable the **Developer** option in the settings (you only have to do this once). This is done in slightly different ways in the Windows & Mac versions of Excel.
 
