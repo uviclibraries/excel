@@ -20,7 +20,7 @@ Pivot Tables are a powerful tool that can help you quickly and dynamically summa
   
 For example, if you have a spreadsheet of workshop attendance data, you can summarize it so you can easily see how many workshops were held, and the total number of participants across all the workshops. In the figure below, from the spreadsheet on the left, you could easily create the pivot table on the right:
 
-<img src="images/excel-pivot-13.png" alt="Pivot table example">
+<img src="images/excel-pivot-13.png" style="width:600px" alt="Pivot table example">
 
 Now let's see how to create one!
 
