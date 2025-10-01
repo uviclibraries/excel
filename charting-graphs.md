@@ -18,7 +18,7 @@ In this activity, you will produce some graphs and charts in Excel, as well as h
     <img src="images/excel-charts-graphs-03.png" style="float:right;width:100px;height:100px;"> <img src="images/excel-charts-graphs-04.png" style="float:right;width:100px;height:100px;" alt="Pictures of the sorting Icon.">
  
 2. **Sorting**: Sort by the number of workshops held (column B): 
-  - Click on cell **A1** and drag your mouse to **C6**, highlighting all boxes
+  - Click on cell **A1** and drag your mouse to **C6**, highlighting all boxes. **ATTENTION**: selecting the **entire range** of where your data is in **very** important here; otherwise, it might mess up your data (i.e., it will sort one column but not the other, so rows will be mixed up)
   - Click on the green **Data** tab on the top menu.
   - Click on the **Sort** button on the top menu (see right). Note: If the sort Filter button is not visible, increase the size of your Excel window so that more tools are displayed on the ribbon.
   - A dialogue box will pop up. Click on the **Column** drop-down, and select **Workshops**.
