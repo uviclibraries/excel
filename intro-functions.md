@@ -97,7 +97,7 @@ Below, we go through some functions that are frequently used:
     
     <button onclick="toggle('gif3')">Show/Hide Animation</button>
     <div id="gif3">
-    <img src="images/excel-functions-04.gif" width="400" alt="Demonstration of modifying the formula.">
+    <img src="images/excel-functions-xlookup.gif" width="400" alt="Demonstration of modifying the formula.">
     </div>
 
 <script>  
