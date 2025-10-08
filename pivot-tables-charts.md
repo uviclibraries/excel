@@ -75,7 +75,7 @@ Now let's see how to create one!
 
     <button onclick="toggle('gif3')">Show/Hide Animation</button>
     <div id="gif3">
-    <img src="images/excel-pivot-filter.gif" alt="Demonstration of Step 4 in windows.">
+    <img src="images/excel-pivot-filter.gif" width = "600" alt="Demonstration of Step 4 in windows.">
     </div>
 
 _Great job!_
