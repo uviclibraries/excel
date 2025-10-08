@@ -71,7 +71,7 @@ Now let's see how to create one!
     <img src="images/excel-pivot-12.gif" alt="Demonstration of Step 4.">
     </div>
     
-    **Note**: this step is a bit different between Windows and Mac. The above works for Mac,s but for windows, you can check the animation below.
+    **Note**: this step is a bit different between Windows and Mac. The above works for Mac, but for Windows, you can check the animation below.
 
     <button onclick="toggle('gif3')">Show/Hide Animation</button>
     <div id="gif3">
