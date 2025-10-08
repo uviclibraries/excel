@@ -24,7 +24,7 @@ Functions are powerful tools that can quickly let you make complex calculations.
 
 <button onclick="toggle('gif1')">Show/Hide Animation</button>
 <div id="gif1">
-<img src="images/excel-functions-intro.gif" alt="Demonstration of Functions.">
+<img src="images/excel-functions-intro.gif" width="600" alt="Demonstration of Functions.">
 </div>
 
 Below, we go through some functions that are frequently used:
