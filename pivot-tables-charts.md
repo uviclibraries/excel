@@ -63,20 +63,19 @@ Now let's see how to create one!
     - Start by un-selecting **Date** in the PivotTable field name area.
     - In the **∑ Values** area, **right mouse click** on Count of Workshop and select **Remove Field**.
     - Sort the Sum of Total Attendance column by clicking on the little arrow facing down (found within the “row labels” cell). Then select “Descending” and sort by the “sum of Total Attendance”. Feel free to try this by selecting “Ascending” instead as well.
-  
-    <img src="images/excel-pivot-08.png" style="float:right;" alt="Sorting using descending andascending."> 
-
-    <img src="images/excel-pivot-09.png" style="float:right;" alt="Arrow to click to sort.">
-
     - Select the **Insert** tab on the top ribbon, and then select the **PivotChart** button in the ribbon. 
-
-    <img src="images/excel-pivot-10.png" style="float:right;width:80px;height:80px;"><img src="images/excel-pivot-11.png" style="float:right;width:80px;height:80px;" alt="Pivot chart icons."> 
-
     - Click **OK**, and now you have a basic chart. Please feel free to experiment with both the data and the chart.<br>
+
+     <button onclick="toggle('gif3')">Show/Hide Animation</button>
+    <div id="gif3">
+    <img src="images/excel-pivot-12.gif" alt="Demonstration of Step 4.">
+    </div>
+    
+    **Note**: this step is a bit different between Windows and Mac. The above works for Mac,s but for windows, you can check the animation below.
 
     <button onclick="toggle('gif3')">Show/Hide Animation</button>
     <div id="gif3">
-    <img src="images/excel-pivot-12.gif" alt="Demonstration of Step 4.">
+    <img src="images/excel-pivot-filter.gif" alt="Demonstration of Step 4 in windows.">
     </div>
 
 _Great job!_
