@@ -22,10 +22,10 @@ Functions are powerful tools that can quickly let you make complex calculations.
    - You will note that, as you start typing the function name, Excel will show you all the functions that start with those letters, and you can double-click in any of the options for Excel to fill in the function name for you.
    - When the function name and the first parenthesis are written, and you put the cursor on the function name, a small square with the full function name and its arguments appears below the cursor. You can then click on the function name, and a help window for the function will appear. The help window shows what the function does, what its arguments are, and a few examples.
 
-<button onclick="toggle('gif1')">Show/Hide Animation</button>
-<div id="gif1">
-<img src="images/excel-functions-intro.gif" width="600" alt="Demonstration of Functions.">
-</div>
+  <button onclick="toggle('gif1')">Show/Hide Animation</button>
+  <div id="gif1">
+  <img src="images/excel-functions-intro.gif" width="600" alt="Demonstration of Functions.">
+  </div>
 
 Below, we go through some functions that are frequently used:
 
