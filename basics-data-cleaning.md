@@ -46,7 +46,7 @@ If you and your group have any questions or get stuck as you work through this i
 
      <button onclick="toggle('gif4')">Show/Hide Animation</button>
      <div id="gif4">
-     <img src="images/excel-basics-07.gif" width="600" alt="Demonstration of the first bullet point of number 4."> 
+     <img src="images/excel-basics-07.gif" width="400" alt="Demonstration of the first bullet point of number 4."> 
      </div>
 
 4. **Copying & pasting into ranges** with the default Relative Cell referencing:
