@@ -5,8 +5,6 @@ nav_order: 3
 parent: Workshop Activities - Introduction
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
-<img src="images/excel-basics-01.png" style="float:right;width:320px;height:320px;" alt="Example of Data from all Steps."> 
-
 # Fundamental Excel Skills
 
 If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
@@ -48,7 +46,7 @@ If you and your group have any questions or get stuck as you work through this i
 
      <button onclick="toggle('gif4')">Show/Hide Animation</button>
      <div id="gif4">
-     <img src="images/excel-basics-07.gif" alt="Demonstration of the first bullet point of number 4."> 
+     <img src="images/excel-basics-07.gif" width="600" alt="Demonstration of the first bullet point of number 4."> 
      </div>
 
 4. **Copying & pasting into ranges** with the default Relative Cell referencing:
