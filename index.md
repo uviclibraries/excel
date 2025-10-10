@@ -23,7 +23,7 @@ At the end of the **Introductory** portion of this workshop, you will be able to
 4. Sort data, using the filter button
 5. Find and replace data (data cleaning) & know when Open Refine would be a more appropriate tool.
 6. Change categorical data (e.g., male, female) into numerical data (e.g., 1, 2)
-7. Use the following functions: SUM, SUMIF, INT, COUNTA, COUNTIF, VLOOKUP, CONCATENATE, VALUE, LEN.
+7. Use the following functions: SUM, SUMIF, INT, COUNTA, COUNTIF, XLOOKUP, CONCATENATE, VALUE, LEN.
 8. Track changes in excel
 9. Use these statistical functions: AVERAGE (Mean), Standard Deviation, MEDIAN, MODE, COUNT, Standardize, Sample Variance, Kurtosis, Skew, MIN, MAX, Range. 
 10. Produce basic graphs, histograms and scatterplots and edit them (e.g., add title, change axes names, colours, sizing etc)
