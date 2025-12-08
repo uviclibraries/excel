@@ -45,7 +45,7 @@ Below, we go through some functions that are frequently used:
   - In an empty cell enter: **=counta(A1:A20)**
   - If you would like additional information on the COUNTA function here is a [Microsoft tutorial](https://bit.ly/2Ie37Rh){:target="_blank"}
 
-6. **COUNTIF function**: For example, **=COUNTIF(A2:A5,"London")** counts the number of cells with **London** in the range A2 to A5. Note: The COUNTIF function is not case sensitive, but if it will not count a field if it contains additional text like, "London, England" for example.
+6. **COUNTIF function**: For example, **=COUNTIF(A2:A5,"London")** counts the number of cells with **London** in the range A2 to A5. Note: The COUNTIF function is not case sensitive, but it will not count a field if it contains additional text like, "London, England" for example. You can also use the COUNTIF function to count specific numeric values; it works for both numbers and text.
   - If you would like additional information on the COUNTIF function here is a [Microsoft tutorial](https://bit.ly/2I4IFCh){:target="_blank"}
 
 7. **CONCATENATE function**: Joins two or more text strings into one string. For Example, if cell **A1** contains **Victoria** and cell **B1** contains **BC**, join the two text strings together in cell **C1** with a space and a comma between them using the following function: **=CONCATENATE(A1, ", ",B1)** will give you: **Victoria, BC**.
