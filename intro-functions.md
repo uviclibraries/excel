@@ -27,7 +27,7 @@ Functions are powerful tools that can quickly let you make complex calculations.
   <img src="images/excel-functions-intro.gif" width="600" alt="Demonstration of Functions.">
   </div>
 
-Below, we go through some functions that are frequently used:
+Below, we go through some functions that are frequently used. If this is new information to you, you might want to try out the examples we provide in your Excel worksheet.
 
 3. **SUM function:** The sum function quickly and easily adds up a range of numbers for you.
   - In cell **A13** type: **=sum(A1:A11)** and press **Enter** on your keyboard. Cell **A13** should now have the number **59** in it.<br>
