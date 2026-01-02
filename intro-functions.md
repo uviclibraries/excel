@@ -132,7 +132,8 @@ The final step here is to make sure the multiplication is skipping the first row
 Now, if you add additional items at the bottom, Excel will automatically calculate their total value: 
 <!--- MAKE AND ADD ANIMATION --->
 
-**Challenge:** Now it is your turn to try to merge the use of dynamic formulas and the dot operator to make use of functions more efficiently! In the example of the XLOOKUP function above, modify the formula entered in cell B4 so that new items entered in column A will automatically ahve their price added to column B.
+### Challenge!
+Now it is your turn to try to merge the use of dynamic formulas and the dot operator to make use of functions more efficiently! In the example of the XLOOKUP function above, modify the formula entered in cell B4 so that new items entered in column A will automatically have their price added to column B.
   *Hint*: You will need to use dynamic formulas and the dot operator inside the XLOOKUP function, as well as the DROP function. 
      
     <button onclick="toggle('gif3')">Show/Hide Answer</button>
