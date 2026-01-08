@@ -66,7 +66,6 @@ Below, we go through some functions that are frequently used. If this is new inf
      - **<** means "less than"
      - **>=** means "greater than or equal to"
      - **<=** means "less than or equal to"
-
   <img src="images/excel-functions-08.png" style="float:right;width:240px;" alt="Representation of Column A and Column B.">
   - Create a new sheet (press the **+** button on the bottom of Excel) and in cells **A1** To **A4** type: **dog, dog, cat, dog** as you can see to the right.
   - In cell **B1** Type: **=IF(A1="dog",1,2)** and press the **Enter** key. This formula looks at **A1**, and if **dog** is found then it will return a **1**, and if it is not found then it will return a **2**.
@@ -75,7 +74,6 @@ Below, we go through some functions that are frequently used. If this is new inf
     <div id="gif2">
     <img src="images/excel-functions-09.gif" width="400" alt="Demonstration of Step 10">
     </div>
-
 11. **XLOOKUP function**: Use XLOOKUP when you need to find things in a table or a range by row. For example, look up the price of a sale item by item name.
   - **Download** [this spreadsheet](docs/dsc-vlookup.xlsx){:target="_blank"} and open it in Microsoft Excel. If needed, **click** on the yellow **Enable Editing** button at the top of the screen..
   - The basic structure of the XLOOKUP function:
