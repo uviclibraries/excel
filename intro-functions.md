@@ -78,7 +78,10 @@ Below, we go through some functions that are frequently used. If this is new inf
     </div>
     
    - Remember, you could also achieve the same by using **dynamic formulas**. To do that, delete the values in column B, and then type  **=IF(A1:A4="dog", 1, 2)** in cell B1 and hit **enter**.
-    <!--- MAKE AND ADD ANIMATION --->
+    <button onclick="toggle('gif2')">Show/Hide Animation</button>
+    <div id="gif2">
+    <img src="images/dog-cat-dynamic.gif" width="400" alt="Demonstration of usig dynamic formulas">
+    </div>
 
 9. **DROP function**: Use DROP when you need to remove a specified number of rows or columns from a selection of cells (i.e., an array). For example, in cell D5, type **=DROP(A1:A4,2)** and hit enter. The values from A1:A4, skipping the first 2 rows, will appear.
 
@@ -108,38 +111,38 @@ Below, we go through some functions that are frequently used. If this is new inf
 Excel has many features that can help you use functions more efficiently.
 One of them is the **dynamic formulas** shown in the [Fundamentals Skills ](basic-data-cleaning.md) section, and exemplified again above for the IF function. 
 
-Another useful feature is the **dot operator**. When pairing the dot operator with dynamic formulas, you can write formulas very efficiently. **The dot operator** lets you trim ranges of values so that only cells with actual content remain in the calculations. For example, imagine you have the following list of items to purchase, with quantity and individual prices of each item (you might want to copy and paste these values to follow along):
+Another useful feature is the **dot operator**. When pairing the dot operator with dynamic formulas, you can write formulas very efficiently. **The dot operator** lets you trim ranges of values so that only cells with actual content remain in the calculations. For example, imagine you have the following list of items to purchase, with quantity and individual prices of each item (you might want to open a new sheet and type in these values to follow along):
 
 <img src="images/dotoperator.png" style="width:300px;">
 
 You could use relative cell referencing or dynamic formulas to calculate the total value of each item:
-<!--- MAKE AND ADD ANIMATION --->
+<img src="images/dot-operator1.gif" style="width:400px;">
 
 However, if you added more items later on, you would need to retype the formula:
-<!--- MAKE AND ADD ANIMATION --->
+<img src="images/dot-operator2.gif" style="width:400px;">
 
 So you might want to make the original formula already encompass the empty rows below the current data. However, if you do that just as it is, you are going to have several 0`s in the Total column:
-<!--- MAKE AND ADD ANIMATION --->
+<img src="images/dot-operator3.gif" style="width:400px;">
 
 This is where the **dot operator** comes in handy. The dot operator can be used to trim the empty values at the beginning or end of a set of cells.  In a range of cells **A:A**, you can use the dot after the first letter (**A.:A**) to remove the leading empty cells (i.e. empty cells at the beginning), and the dot after the second letter (**A:.A**) to remove the trailing empty cells (i.e. empty cells at the end).
 
 In this case, instead of selecting a large range for columns B and C, you can just select the entirety of columns B and C for the multiplication, and use the dot operator to remove the trailing set of empty cells.
-<!--- MAKE AND ADD ANIMATION --->
+<img src="images/dot-operator4.gif" style="width:400px;">
 
 The final step here is to make sure the multiplication is skipping the first row, which contains the names of the columns rather than the values. For this, you can use the DROP function learned above:
-<!--- MAKE AND ADD ANIMATION --->
+<img src="images/dot-operator5.gif" style="width:400px;">
 
 Now, if you add additional items at the bottom, Excel will automatically calculate their total value: 
-<!--- MAKE AND ADD ANIMATION --->
+<img src="images/dot-operator6.gif" style="width:400px;">
 
 ### Challenge!
 Now it is your turn to try to merge the use of dynamic formulas and the dot operator to make use of functions more efficiently! In the example of the XLOOKUP function above, modify the formula entered in cell B4 so that new items entered in column A will automatically have their price added to column B.
 
-*Hint*: You will need to use dynamic formulas and the dot operator inside the XLOOKUP function, as well as the DROP function. 
+*Hint*: Start by deleting the previous formula. You will then need to use dynamic formulas and the dot operator inside the XLOOKUP function, as well as the DROP function. 
      
 <button onclick="toggle('gif3')">Show/Hide Answer</button>
 <div id="gif3">
-<!--- MAKE AND ADD ANIMATION <img src="images/excel-functions-xlookup.gif" width="600" alt="Demonstration of modifying the formula."> ---> 
+<img src="images/dot-operator7.gif">
 </div>
 
 <script>  
