@@ -116,24 +116,24 @@ Another useful feature is the **dot operator**. When pairing the dot operator wi
 <img src="images/dotoperator.png" style="width:300px;">
 
 You could use relative cell referencing or dynamic formulas to calculate the total value of each item:
-<img src="images/dot-operator1.gif" style="width:400px;">
+<img src="images/dot-operator1.gif" style="width:300px;">
 
 However, if you added more items later on, you would need to retype the formula:
-<img src="images/dot-operator2.gif" style="width:400px;">
+<img src="images/dot-operator2.gif" style="width:300px;">
 
 So you might want to make the original formula already encompass the empty rows below the current data. However, if you do that just as it is, you are going to have several 0`s in the Total column:
-<img src="images/dot-operator3.gif" style="width:400px;">
+<img src="images/dot-operator3.gif" style="width:300px;">
 
 This is where the **dot operator** comes in handy. The dot operator can be used to trim the empty values at the beginning or end of a set of cells.  In a range of cells **A:A**, you can use the dot after the first letter (**A.:A**) to remove the leading empty cells (i.e. empty cells at the beginning), and the dot after the second letter (**A:.A**) to remove the trailing empty cells (i.e. empty cells at the end).
 
 In this case, instead of selecting a large range for columns B and C, you can just select the entirety of columns B and C for the multiplication, and use the dot operator to remove the trailing set of empty cells.
-<img src="images/dot-operator4.gif" style="width:400px;">
+<img src="images/dot-operator4.gif" style="width:300px;">
 
 The final step here is to make sure the multiplication is skipping the first row, which contains the names of the columns rather than the values. For this, you can use the DROP function learned above:
-<img src="images/dot-operator5.gif" style="width:400px;">
+<img src="images/dot-operator5.gif" style="width:300px;">
 
 Now, if you add additional items at the bottom, Excel will automatically calculate their total value: 
-<img src="images/dot-operator6.gif" style="width:400px;">
+<img src="images/dot-operator6.gif" style="width:300px;">
 
 ### Challenge!
 Now it is your turn to try to merge the use of dynamic formulas and the dot operator to make use of functions more efficiently! In the example of the XLOOKUP function above, modify the formula entered in cell B4 so that new items entered in column A will automatically have their price added to column B.
