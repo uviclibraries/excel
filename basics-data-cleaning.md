@@ -81,11 +81,11 @@ If you and your group have any questions or get stuck as you work through this i
    - In cell C1, type **=A1:A11*B1:B11** (Instead of typing A1:A11 and B1:B11, you could also select these cells directly), then click **enter**
    - You will see that Excel will automatically perform the multiplication of values A and B for each row, as if you had dragged the formula down using relative cell referencing.
    - This not only saved you time, but also prevents mistakes from happening as no value in column C can be accidentally deleted or substituted (which could happen if using relative cell referencing)
-
-    <button onclick="toggle('gif6')">Show/Hide Animation</button>
-    <div id="gif6">
-    <img src="images/dynamic-formulas.gif"; alt="Demonstration of dynamic formulas"> 
-    </div>
+   
+   <button onclick="toggle('gif6')">Show/Hide Animation</button>
+   <div id="gif6">
+   <img src="images/dynamic-formulas.gif"; alt="Demonstration of dynamic formulas"> 
+   </div>
 
 8. OPTIONAL: The **Text to Columns** tool can come in handy when you want to split a table of text (like on a web page) into multiple cells. If you’d like more information on converting text to columns, [view this video](http://bit.ly/2HYNA7y){:target="_blank"} 
 
