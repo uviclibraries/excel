@@ -62,7 +62,7 @@ If you and your group have any questions or get stuck as you work through this i
 
     - The above was possible due to **Relative Cell Referencing**, which adjusts the cell referenced based on its location. That is, when typing **A1*B1** in cell C1 above, Excel actually stores the information that you are multiplying cells one and two columns to the left of the current cell. When you dragged down the formula, it automatically adjusted the cell referenced. For example, if you click on cell **C11**, you will see that Excel adjusted the formula for **=A11*B11**. <br>
   
-5. Relative cell referencing is the default. You can avoid relative cell referencing, bu using **Absolute Cell Reference**:
+5. Relative cell referencing is the default. You can avoid relative cell referencing, by using **Absolute Cell Reference**:
 
     <button onclick="toggle('gif6')">Show/Hide Animation</button>
     <div id="gif6">
@@ -77,11 +77,15 @@ If you and your group have any questions or get stuck as you work through this i
 
 6. Beyond knowing how to use relative and absolute cell referencing, it is good to know how to use **dynamic formulas**. Dynamic formulas will automatically perform the relative cell reference and drag down action for you.
    - **Delete** the contents in columns B and C
-   - **Type** 1 in cell B1 and 2 in cell B2. Then, **select** both cells B1 and B2, **select** the **green dot** on the **bottom right of the cells** and **drag it** down to cell **C11**, making column B contain a sequential set of values from 1 to 11.
+   - **Type** 1 in cell B1 and 2 in cell B2. Then, **select** both cells B1 and B2, **select** the **green dot** on the **bottom right of the cells** and **drag it** down to cell **B11**, making column B contain a sequential set of values from 1 to 11.
    - In cell C1, type **=A1:A11*B1:B11** (Instead of typing A1:A11 and B1:B11, you could also select these cells directly), then click **enter**
    - You will see that Excel will automatically perform the multiplication of values A and B for each row, as if you had dragged the formula down using relative cell referencing.
    - This not only saved you time, but also prevents mistakes from happening as no value in column C can be accidentally deleted or substituted (which could happen if using relative cell referencing)
-  <!--- MAKE AND ADD ANIMATION--->
+
+    <button onclick="toggle('gif6')">Show/Hide Animation</button>
+    <div id="gif6">
+    <img src="images/dynamic-formulas.gif"; alt="Demonstration of dynamic formulas"> 
+    </div>
 
 8. OPTIONAL: The **Text to Columns** tool can come in handy when you want to split a table of text (like on a web page) into multiple cells. If you’d like more information on converting text to columns, [view this video](http://bit.ly/2HYNA7y){:target="_blank"} 
 
