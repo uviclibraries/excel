@@ -144,7 +144,7 @@ Now, if you add additional items at the bottom, Excel will automatically calcula
 ### Challenge!
 Now it is your turn to try to merge the use of dynamic formulas and the dot operator to make use of functions more efficiently! In the example of the XLOOKUP function above, modify the formula entered in cell B4 so that new items entered in column A will automatically have their price added to column B.
 
-*Hint*: Start by deleting the previous formula. You will then need to use dynamic formulas and the dot operator inside the XLOOKUP function, as well as the DROP function. 
+*Hint*: Start by deleting the previous formulas. You will then need to use dynamic formulas and the dot operator inside the XLOOKUP function, as well as the DROP function. 
      
 <button onclick="toggle('gif3')">Show/Hide Answer</button>
 <div id="gif3">
