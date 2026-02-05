@@ -86,18 +86,20 @@ If you and your group have any questions or get stuck as you work through this i
    <div id="gif7">
    <img src="images/dynamic-formulas.gif" alt="Demonstration of dynamic formulas"> 
    </div>
+   
+8. OPTIONAL. but highly recommended: Check this [short Youtube Video](https://youtube.com/shorts/Zs1AmYFImeg?si=36FCpmdxS_IiTcM9){:target="_blank"} (1min) to learn about some useful keybaord shortcuts to navigate cells in Excel. 
 
-8. OPTIONAL: The **Text to Columns** tool can come in handy when you want to split a table of text (like on a web page) into multiple cells. If you’d like more information on converting text to columns, [view this video](http://bit.ly/2HYNA7y){:target="_blank"} 
+9. OPTIONAL: The **Text to Columns** tool can come in handy when you want to split a table of text (like on a web page) into multiple cells. If you’d like more information on converting text to columns, [view this video](http://bit.ly/2HYNA7y){:target="_blank"} 
 
-9. OPTIONAL: Sometimes you might want to visualize only sections of your data. You can do that using the filter button in Excel. If you’d like more details on filtering data in a range, [view this video](http://bit.ly/2I3qI6N){:target="_blank"} 
+10. OPTIONAL: Sometimes you might want to visualize only sections of your data. You can do that using the filter button in Excel. If you’d like more details on filtering data in a range, [view this video](http://bit.ly/2I3qI6N){:target="_blank"} 
 
-10. OPTIONAL: Data Cleaning using Find, Replace & Pivot Tables: 
+11. OPTIONAL: Data Cleaning using Find, Replace & Pivot Tables: 
   - Cleaning your data is an important process to make sure your dataset is correct before you start your analysis. At this stage, there are often common mistakes that you want to check for, and you can use the Find & Replace tool for that. If you’d like more details on finding or replacing data, [view this video](http://bit.ly/2I09Qhy){:target="_blank"} 
   - Sorting a column of data and then looking down it for misspellings can also help you detect mistakes. [Here's a quick explanation on how to sort data](https://support.microsoft.com/en-us/office/sort-data-in-a-range-or-table-in-excel-62d0b95d-2a90-4610-a6ae-2e545c4a4654){:target="_blank"}. Attention, when sorting, you want to make sure that Excel is taking into account all your data together, and not just sorting one column while leaving the others as they were, this might mix up your data. To avoid this, check [these instructions](https://www.exceldemy.com/how-to-sort-columns-in-excel-without-mixing-data/){:target="_blank"}
   - For very large data sets, you can create a Pivot table - using the "group by" function - which can help you quickly identify misspelled words. We will cover Pivot Tables in the intermediate section of this workshop.
   - For larger and more complex datasets, [OpenRefine](http://openrefine.org/){:target="_blank"} is a more powerful tool than Excel for cleaning data: OpenRefine is a free, open-source tool.
 
-10. Data Validation:
+12. Data Validation:
 
   - One of the easiest ways to validate data is to use an input form with radio boxes or drop-down menus as you see in all online survey tools. Google Sheets has an excellent Forms tool that can be used to collect data you enter yourself or survey data from research participants. Google Forms, puts the data into Google Sheets, which can then be either analyzed in Google Sheets or exported to MS Excel. [Here is more information about Google Forms](http://bit.ly/2FBqK5y){:target="_blank"}
   - If you’d like more information on data collections forms and validation in Excel, view please follow along with [this video](http://bit.ly/2I2jEYb){:target="_blank"}
