@@ -67,7 +67,6 @@ Below, we go through some functions that are frequently used. If this is new inf
      - **<** means "less than"
      - **>=** means "greater than or equal to"
      - **<=** means "less than or equal to"
-
   <img src="images/excel-functions-08.png" style="float:right;width:240px;" alt="Representation of Column A and Column B.">
   - Create a new sheet (press the **+** button on the bottom of Excel) and in cells **A1** To **A4** type: **dog, dog, cat, dog** as you can see to the right.
   - In cell **B1** Type: **=IF(A1="dog",1,2)** and press the **Enter** key. This formula looks at **A1**, and if **dog** is found then it will return a **1**, and if it is not found then it will return a **2**.
