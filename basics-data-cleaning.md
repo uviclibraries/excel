@@ -73,7 +73,7 @@ If you and your group have any questions or get stuck as you work through this i
     - **Double-click** on cell **C1**, and then **edit the formula** to look like this: **=A1*B$1**. the Press **Enter**. The **$** sign locks the reference to cell B1 always to row 1, even if you drag it down.
     - Click on **C1**, **select** the **green dot** on the **bottom right of the cell** & **drag it** down to cell **C11**. 
     - Click on cell C11 and see that it reads **=A11*B$1**.
-    - For more information, read this short guide on cell referencing [view this page](http://bit.ly/2EGE4EY){:target="_blank"}. It will be useful when we work with functions such as VLOOKUP in Activity 3.
+    - For more information, read this short guide on cell referencing [view this page](http://bit.ly/2EGE4EY){:target="_blank"}. It will be useful when we work with functions such as XLOOKUP in Activity 3.
 
 6. Beyond knowing how to use relative and absolute cell referencing, it is good to know how to use **dynamic formulas**. Dynamic formulas will automatically perform the relative cell reference and drag down action for you.
    - **Delete** the contents in columns B and C
@@ -87,7 +87,7 @@ If you and your group have any questions or get stuck as you work through this i
    <img src="images/dynamic-formulas.gif" alt="Demonstration of dynamic formulas"> 
    </div>
    
-8. OPTIONAL. but highly recommended: Check this [short Youtube Video](https://youtube.com/shorts/Zs1AmYFImeg?si=36FCpmdxS_IiTcM9){:target="_blank"} (1min) to learn about some useful keybaord shortcuts to navigate cells in Excel. 
+8. OPTIONAL. but highly recommended: Check this [short Youtube Video](https://youtube.com/shorts/Zs1AmYFImeg?si=36FCpmdxS_IiTcM9){:target="_blank"} (1min) to learn about some useful keyboard shortcuts to navigate cells in Excel. 
 
 9. OPTIONAL: The **Text to Columns** tool can come in handy when you want to split a table of text (like on a web page) into multiple cells. If you’d like more information on converting text to columns, [view this video](http://bit.ly/2HYNA7y){:target="_blank"} 
 
