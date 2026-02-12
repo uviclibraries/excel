@@ -127,7 +127,7 @@ So you might want to make the original formula already encompass the empty rows 
 
 <img src="images/dot-operator3.gif" style="width:350px;">
 
-This is where the **dot operator** comes in handy. The dot operator can be used to trim the empty values at the beginning or end of a set of cells.  In a range of cells **A:A**, you can use the dot after the first letter (**A.:A**) to remove the leading empty cells (i.e. empty cells at the beginning), and the dot after the second letter (**A:.A**) to remove the trailing empty cells (i.e. empty cells at the end).
+This is where the **dot operator** comes in handy. The dot operator can be used to trim the empty values at the beginning or end of a set of cells.  In a range of cells **A:A**, you can use the dot after the first letter (**A.:A**) to remove the leading empty cells (i.e. empty cells at the beginning), and the dot before the second letter (**A:.A**) to remove the trailing empty cells (i.e. empty cells at the end).
 
 In this case, instead of selecting a large range for columns B and C, you can just select the entirety of columns B and C for the multiplication, and use the dot operator to remove the trailing set of empty cells. (**Note**: an error message saying "\#VALUE!" is okay at this step, check the next step to understand why and how to fix it!)
 
