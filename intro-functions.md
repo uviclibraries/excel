@@ -146,8 +146,8 @@ Now it is your turn to try to merge the use of dynamic formulas and the dot oper
 
 *Hint*: Start by deleting the previous formulas. You will then need to use dynamic formulas and the dot operator inside the XLOOKUP function, as well as the DROP function. 
      
-<button onclick="toggle('gif3')">Show/Hide Answer</button>
-<div id="gif3">
+<button onclick="toggle('gif4')">Show/Hide Answer</button>
+<div id="gif4">
 <img src="images/dot-operator7.gif">
 </div>
 
