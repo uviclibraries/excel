@@ -60,7 +60,7 @@ If you and your group have any questions or get stuck as you work through this i
     <img src="images/excel-basics-08.gif" alt="Demonstration of the second bullet point of number 4."> 
     </div>
 
-    - The above was possible due to **Relative Cell Referencing**, which adjusts the cell referenced based on its location. That is, when typing "A1*B1" in cell C1 above, Excel actually stores the information that you are multiplying cells one and two columns to the left of the current cell. When you dragged down the formula, it automatically adjusted the cell referenced. For example, if you click on cell C11, you will see that Excel adjusted the formula for "=A11*B11". <br>
+    - The above was possible due to **Relative Cell Referencing**, which adjusts the cell referenced based on its location. That is, when typing "A1\*B1" in cell C1 above, Excel actually stores the information that you are multiplying cells one and two columns to the left of the current cell. When you dragged down the formula, it automatically adjusted the cell referenced. For example, if you click on cell C11, you will see that Excel adjusted the formula for "=A11\*B11". <br>
   
 5. Relative cell referencing is the default. You can avoid relative cell referencing, by using **Absolute Cell Reference**:
 
