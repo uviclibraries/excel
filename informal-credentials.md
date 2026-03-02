@@ -13,20 +13,21 @@ DSC electronic badges are [cryptographically signed](https://badgecheck.io/){:ta
 
 DSC badges are awarded at the request of workshop participants after a DSC staff member has verified that they have successfully completed one or more of the workshop hands-on workshop activities. You can see a list of all the badges offered by the DSC on our [Badgr page](https://badgr.com/public/issuers/HI5nEIsFQKiFDSGJWrYNxQ/badges){:target="_blank"}.
 
-### Earn an Informal Credential or Badge for Data Analysis with Excel
-
+## Earn an Informal Credential or Badge for Data Analysis with Excel
+### Introduction to Data Analysis with Excel badge
 If you’d like to earn the **Introduction to Data Analysis with Excel** badge, email the following spreadsheets to: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
 1. Introduction to Functions
 2. Statistical Functions
 3. Charting & Graphs
 
+### Intermediate to Data Analysis with Excel badge
 If you’d like to earn the **Intermediate to Data Analysis with Excel** badge, email the following spreadsheets to: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
 4. Macros
 5. Digital Dashboards
 
 _Please note that you can earn both badges by sending all the spreadsheets listed above to [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}_.
 
-### Learn how you can share your DSC Badge
+## Learn how you can share your DSC Badge
 To learn more about DSC badges and how you can share your them on LinkedIn profile, personal website, or resume, check our [DSC Badges webpage](https://onlineacademiccommunity.uvic.ca/dsc/badges/){:target="_blank"}.
 
 [NEXT STEP: Additional Resources](additional-resources.html){: .btn .btn-blue }
