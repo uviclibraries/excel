@@ -60,23 +60,24 @@ Below, we go through some functions that are frequently used. If this is new inf
   - If you would like additional information on the LEN function here is a [Microsoft tutorial](http://bit.ly/2I0lYiA){:target="_blank"}  
 
 8. **IF function**: Use the IF function to check whether a condition is met and return a value. It can also return a different value if the condition is not met. Alternatively, you can use the IFS function to check whether one or more conditions are met and return a value that corresponds to the first TRUE condition. If you'd like, you can explore the differences between the IF and IFS functions, please [**click here**](https://g.co/gemini/share/bde35b0efd90){:target="_blank"}.<br>
- - Both the IF and IFS functions (or any conditional function) use Excel logical operators:
-     - **=** means "equal to"
-     - **<>** means "not equal to"
-     - **>** means "greater than"
-     - **<** means "less than"
-     - **>=** means "greater than or equal to"
-     - **<=** means "less than or equal to"
-  <img src="images/excel-functions-08.png" style="float:right;width:240px;" alt="Representation of Column A and Column B.">
-  - Create a new sheet (press the **+** button on the bottom of Excel) and in cells **A1** To **A4** type: **dog, dog, cat, dog** as you can see to the right.
-  - In cell **B1** Type: **=IF(A1="dog",1,2)** and press the **Enter** key. This formula looks at **A1**, and if **dog** is found then it will return a **1**, and if it is not found then it will return a **2**.
-  - Select cell **B1**, and then grab the **green dot** at the bottom right of the cell, and drag it down to cell **B4**. You should now see a **1** beside each **dog** and a **2** beside the **cat**.<br>
+    - Both the IF and IFS functions (or any conditional function) use Excel logical operators:
+        - **=** means "equal to"
+        - **<>** means "not equal to"
+        - **>** means "greater than"
+        - **<** means "less than"
+        - **>=** means "greater than or equal to"
+        - **<=** means "less than or equal to"
+    <img src="images/excel-functions-08.png" style="float:right;width:240px;" alt="Representation of Column A and Column B.">
+
+    - Create a new sheet (press the **+** button on the bottom of Excel) and in cells **A1** To **A4** type: **dog, dog, cat, dog** as you can see to the right.
+    - In cell **B1** Type: **=IF(A1="dog",1,2)** and press the **Enter** key. This formula looks at **A1**, and if **dog** is found then it will return a **1**, and if it is not found then it will return a **2**.
+    - Select cell **B1**, and then grab the **green dot** at the bottom right of the cell, and drag it down to cell **B4**. You should now see a **1** beside each **dog** and a **2** beside the **cat**.<br>
     <button onclick="toggle('gif2')">Show/Hide Animation</button>
     <div id="gif2">
     <img src="images/excel-functions-09.gif" width="400" alt="Demonstration of Step 10">
     </div>
     
-   - Remember, you could also achieve the same by using **dynamic formulas**. To do that, delete the values in column B, and then type  **=IF(A1:A4="dog", 1, 2)** in cell B1 and hit **enter**.
+    - Remember, you could also achieve the same by using **dynamic formulas**. To do that, delete the values in column B, and then type  **=IF(A1:A4="dog", 1, 2)** in cell B1 and hit **enter**.
    
    <button onclick="toggle('gif3')">Show/Hide Animation</button>
    <div id="gif3">
