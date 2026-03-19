@@ -7,23 +7,24 @@ nav_order: 9
 
 # Informal Credentials or Digital Badges
 
-The Digital Scholarship Commons (DSC) awards digital badges, or informal credentialing, for the successful completion of this workshop. We award badges as an informal credential in order to help workshop participants, who wish to, make public the fact that they have developed qualitative coding skills using Excel. 
+The Digital Scholarship Commons (DSC) awards digital badges, or informal credentialing, for the successful completion of this workshop. We award badges as an informal credential in order to help workshop participants, who wish to, make public the fact that they have developed data analysis skills using Excel. 
 
-DSC electronic badges are [cryptographically signed](https://badgecheck.io/){:target="_blank"} and have the recipients email address embedded in the signing so that it cannot be used by anyone else. Also embedded in the badge is a [link to the learning objectives for the workshop](https://badgr.com/backpack/badges/607767abb78d4c65fc8f1676){:target="_blank"} so that employers or anyone who sees the badge can determine what was done to earn the badge. 
+DSC electronic badges are cryptographically signed and have the recipient's email address embedded in the signing so that it cannot be used by anyone else. Also embedded in the badge is a link to the learning objectives for the workshop so that employers or anyone who sees the badge can determine what was done to earn the badge. 
 
-DSC badges are awarded at the request of workshop participants after a DSC staff member has verified that they have successfully completed one or more of the workshop hands-on workshop activities. You can see a list of all the badges offered by the DSC on our [Badgr page](https://badgr.com/public/issuers/HI5nEIsFQKiFDSGJWrYNxQ/badges){:target="_blank"}.
+DSC badges are awarded at the request of workshop participants after a DSC staff member has verified that they have successfully completed one or more of the workshop's hands-on activities. You can see a list of all the badges offered by the DSC on our [UVic Libraries page](https://libguides.uvic.ca/badges){:target="_blank"}.
 
 ## Earn an Informal Credential or Badge for Data Analysis with Excel
 ### Introduction to Data Analysis with Excel badge
-If you’d like to earn the **Introduction to Data Analysis with Excel** badge, email the following spreadsheets to: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
-1. Introduction to Functions
-2. Statistical Functions
-3. Charting & Graphs
+If you’d like to earn the **Introduction to Data Analysis with Excel** badge, email the following Excel workbooks (one per section, but each workbook can contain multiple sheets related to the different activities of each section) to: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
+- Introduction to Functions
+- Statistical Functions
+- Charting & Graphs
 
 ### Intermediate to Data Analysis with Excel badge
-If you’d like to earn the **Intermediate to Data Analysis with Excel** badge, email the following spreadsheets to: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
-4. Macros
-5. Digital Dashboards
+If you’d like to earn the **Intermediate Data Analysis with Excel** badge, email the following Excel workbooks (one per activity) to: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
+- Pivot Tables
+- Macros
+- Digital Dashboards
 
 _Please note that you can earn both badges by sending all the spreadsheets listed above to [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}_.
 
