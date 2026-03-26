@@ -30,7 +30,7 @@ In this activity, you will create a Digital Dashboard, integrating data from a n
     <div id="gif2">
     <img src="images/excel-dashboard-05.gif" alt="Demonstration of adding the number of participants."> 
     </div>
-  - Add the number of print jobs from each month on the Dashboard:  In cell **D4** tupe: **=** then **click** on the **Print by Month** tab, and **select** cell **B4**, then press **Enter**. Do the same for October, November, & December.<br>
+  - Add the number of print jobs from each month on the Dashboard:  In cell **D4** type: **=** then **click** on the **Print by Month** tab, and **select** cell **B4**, then press **Enter**. Do the same for October, November, & December.<br>
     <button onclick="toggle('gif3')">Show/Hide Animation</button>
     <div id="gif3">
     <img src="images/excel-dashboard-06.gif" alt="Demonstration of adding the number of print jobs."> 
