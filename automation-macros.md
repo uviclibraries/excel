@@ -1,10 +1,12 @@
+<!--  
 ---
 layout: default
 title: 6 - Optional - Automation with Macros
-<!-- nav_order: 9
+nav_order: 9
 parent: Workshop Activities - Intermediate
-customjs: http://code.jquery.com/jquery-1.4.2.min.js ->>
----
+customjs: http://code.jquery.com/jquery-1.4.2.min.js 
+--- 
+-->
  <img src="images/excel-automation-01.png" style="float:right;width:180px;height:200px;"> 
 
 # Automation with Macros
