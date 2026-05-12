@@ -23,7 +23,6 @@ If you’d like to earn the **Introduction to Data Analysis with Excel** badge, 
 ### Intermediate to Data Analysis with Excel badge
 If you’d like to earn the **Intermediate Data Analysis with Excel** badge, email the following Excel workbooks (one per activity) to: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
 - Pivot Tables
-- Macros
 - Digital Dashboards
 
 _Please note that you can earn both badges by sending all the spreadsheets listed above to [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}_.
