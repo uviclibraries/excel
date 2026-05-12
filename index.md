@@ -31,7 +31,6 @@ At the end of the **Introductory** portion of this workshop, you will be able to
 ### Intermediate Excel
 At the end of the **Intermediate** portion of this workshop, you will be able to:
 1. Create a basic pivot table and pivot chart
-2. Automate a series of tasks in a spreadsheet using a macro
 3. Create a Dashboard information summary sheet based on data from another sheet
 
 **NOTE**: _You can earn DSC Badges by completing the Introductory and/or the Intermediate portions of this workshop._
