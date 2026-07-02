@@ -1,5 +1,5 @@
 title: Excel Workshop
-remote_theme: pmarsceill/just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 # license information for workshop content - test
 license_name: "Creative Commons Attribution 4.0 International License"
@@ -41,4 +41,6 @@ ga_tracking: G-J1P4V8MFWB
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
+  - jekyll-include-cache
