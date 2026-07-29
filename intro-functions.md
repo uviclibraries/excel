@@ -18,7 +18,7 @@ First, open Excel, and open a **Blank workbook**.
 All functions in Excel work in a similar way:
    - To use a function, you need to type "=" in any cell, and then Excel will know that you will use a function in that cell. Alternatively, a "=" sign also means that you will ask Excel to do a calculation (e.g., "=2+3" will show 5 in the cell)
    - After the "=" sign, you should type the name of the function you want to use, followed by parentheses. For example, if using the SUM function, you should type "=SUM()"
-   - Inside the parentheses, you should add the arguments for the function. Each function has different arguments; some have only one, some have multiple. When a function has more than one argument, they are separated by a comma.
+   - Inside the parentheses, you should add the arguments for the function (NOTE: **an argument in Excel is an input value, cell reference, or range passed to a function so it can perform a calculation**). Each function has different arguments; some have only one, some have multiple. When a function has more than one argument, they are separated by a comma.
    - You will note that, as you start typing the function name, Excel will show you all the functions that start with those letters, and you can double-click in any of the options for Excel to fill in the function name for you.
    - When the function name and the first parenthesis are written, and you put the cursor on the function name, a small square with the full function name and its arguments appears below the cursor. You can then click on the function name, and a help window for the function will appear. The help window shows what the function does, what its arguments are, and a few examples.
 
