@@ -134,7 +134,7 @@ In this case, instead of selecting a large range for columns B and C, you can ju
 
 <img src="images/dot-operator4.gif" style="width:350px;">
 
-The final step here is to make sure the multiplication is skipping the first row, which contains the names of the columns rather than the values. For this, you can use the DROP function learned above:
+The final step here is to make sure the multiplication is skipping the first row, which contains the names of the columns rather than the values. For this, you can use the DROP function learned above: ```=C:C```
 
 <img src="images/dot-operator5.gif" style="width:350px;">
 
