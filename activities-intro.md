@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Activities Introduction
+title: Self-Directed Introduction
 nav_order: 3
 ---
-# Activities Introduction
+# Introduction for Self-Directed Learners
 
 Please review the following if you are working through the workshop materials without attending a live event. If you are attending a zoom or in-person workshop, the presentation will be given at the start of the workshop.
 
