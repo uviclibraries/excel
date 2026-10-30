@@ -37,27 +37,27 @@ Below, we go through some functions that are frequently used. If this is new inf
     <img src="images/excel-functions-02.gif" alt="Demonstration of Calculating the Sum.">
     </div>
   - Rows can also be summed. Enter some numbers in cells **A16** to **D16**, and then in cell **A17** type: **=sum(A16:D16)**  After pressing **Enter**, the sum of those four numbers should appear.
-  - If you would like additional information on the SUM function, here is a [Microsoft video tutorial](http://bit.ly/2HZ9Jmi){:target="_blank"}
+  - If you would like additional information on the SUM function, here is a [Microsoft video tutorial](https://support.microsoft.com/en-us/excel/functions/sum-function){:target="_blank"}
 
 2. **INT function**: The INT function rounds a number down to the nearest integer. For example, =INT(5.6789) would return 5
-  - If you would like additional information on the INT function here is a [Microsoft tutorial](http://bit.ly/2I2qFIv){:target="_blank"}
+  - If you would like additional information on the INT function here is a [Microsoft tutorial](https://support.microsoft.com/en-us/excel/functions/int-function){:target="_blank"}
 
 3. **COUNTA function**: Counts the number of non-empty cells in a range whether the cells have number or text in them. 
   - In an empty cell enter: **=counta(A1:A20)**
-  - If you would like additional information on the COUNTA function here is a [Microsoft tutorial](https://bit.ly/2Ie37Rh){:target="_blank"}
+  - If you would like additional information on the COUNTA function here is a [Microsoft tutorial](https://www.youtube.com/watch?v=BwycUHt_QbM){:target="_blank"}
 
 4. **COUNTIF function**: For example, **=COUNTIF(A2:A5,"London")** counts the number of cells with **London** in the range A2 to A5. Note: The COUNTIF function is not case sensitive, but it will not count a field if it contains additional text like, "London, England" for example. You can also use the COUNTIF function to count specific numeric values; it works for both numbers and text.
-  - If you would like additional information on the COUNTIF function here is a [Microsoft tutorial](https://bit.ly/2I4IFCh){:target="_blank"}
+  - If you would like additional information on the COUNTIF function here is a [Microsoft tutorial](https://support.microsoft.com/en-us/excel/functions/counta-function){:target="_blank"}
 
 5. **CONCATENATE function**: Joins two or more text strings into one string. For Example, if cell **A1** contains **Victoria** and cell **B1** contains **BC**, join the two text strings together in cell **C1** with a space and a comma between them using the following function: **=CONCATENATE(A1, ", ",B1)** will give you: **Victoria, BC**.
-  - If you would like additional information on the CONCATENATE function here is a [Microsoft tutorial](http://bit.ly/2I2qTzl){:target="_blank"}
+  - If you would like additional information on the CONCATENATE function here is a [Microsoft tutorial](https://support.microsoft.com/en-us/excel/functions/concatenate-function){:target="_blank"}
 
 6. **VALUE function**: Converts a text string that represents a number to a number. For example, it would convert the text string **$1,000** to the number **1000**. Excel cannot add up text even if it looks like a number. 
   - Enter **$1,000** into cell **C1**. In cell **C2** enter =**value(C1)**   This will return the number 1000 that you can now perform mathematical operations on.
-  - If you would like additional information on the VALUE function here is a [Microsoft tutorial](http://bit.ly/2I0O1OR){:target="_blank"}  
+  - If you would like additional information on the VALUE function here is a [Microsoft tutorial](https://support.microsoft.com/en-us/excel/functions/value-function){:target="_blank"}  
  
 7. **LEN function**: returns the number of characters in a text string. Eg. Enter **=LEN("test text")** into cell **C3** . This will return **9**, as there are 9 characters in the text string “test text” (a space is a character). 
-  - If you would like additional information on the LEN function here is a [Microsoft tutorial](http://bit.ly/2I0lYiA){:target="_blank"}  
+  - If you would like additional information on the LEN function here is a [Microsoft tutorial](https://support.microsoft.com/en-us/excel/functions/len-function){:target="_blank"}  
 
 8. **IF function**: Use the IF function to check whether a condition is met and return a value. It can also return a different value if the condition is not met. Alternatively, you can use the IFS function to check whether one or more conditions are met and return a value that corresponds to the first TRUE condition. If you'd like, you can explore the differences between the IF and IFS functions, please [**click here**](https://g.co/gemini/share/bde35b0efd90){:target="_blank"}.<br>
     - Both the IF and IFS functions (or any conditional function) use Excel logical operators:
