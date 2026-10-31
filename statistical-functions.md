@@ -90,7 +90,7 @@ Statistical Functions are powerful tools that can quickly let you make complex c
     <img src="images/excel-statistical-11.gif" alt="Demonstration of Step 9.">
     </div>
 
-10. STANDARDIZE function: “In statistics, standardization is the process of putting different variables on the same scale. This process allows you to compare scores between different types of variables.” ([Standardization resource by Jim Frost](https://bit.ly/2KaqjlV){:target="_blank"}) The STANDARDIZE function returns a normalized value from a distribution characterized by mean and standard_dev. Eg. =STANDARDIZE(5,5.363,2.248)  Normalized value of 5, using 5.363 as the arithmetic mean and 2.248 as the standard deviation. The result is: -0.1617
+10. STANDARDIZE function: “In statistics, standardization is the process of putting different variables on the same scale. This process allows you to compare scores between different types of variables.” ([Standardization resource by Jim Frost](https://statisticsbyjim.com/glossary/standardization/){:target="_blank"}) The STANDARDIZE function returns a normalized value from a distribution characterized by mean and standard_dev. Eg. =STANDARDIZE(5,5.363,2.248)  Normalized value of 5, using 5.363 as the arithmetic mean and 2.248 as the standard deviation. The result is: -0.1617
   - Enter in **J13**: **Standardize**
   - Enter in **J14** the formula **=STANDARDIZE(C14, A14, E14)** and then press the **Enter** key. 
   - **J14** should contain **-0.161743283** which is Standardized for the mode.<br>
@@ -99,7 +99,7 @@ Statistical Functions are powerful tools that can quickly let you make complex c
     <img src="images/excel-statistical-12.gif" width="600" height="600" alt="Demonstration of Step 10.">
     </div>
 
-**Note:** Microsoft offers a free **Analysis ToolPak** to help you perform more complex statistical analysis. Additional tools in the ToolPak include: Anova, Covariance, F-Test, Regression, t-Test, z-Test, among others. [Download this free Excel add-on from Microsoft here](http://bit.ly/2I4xQzS){:target="_blank"} 
+**Note:** Microsoft offers a free **Analysis ToolPak** to help you perform more complex statistical analysis. Additional tools in the ToolPak include: Anova, Covariance, F-Test, Regression, t-Test, z-Test, among others. [Download this free Excel add-on from Microsoft here](https://support.microsoft.com/en-us/excel/use-the-analysis-toolpak-to-perform-complex-data-analysis){:target="_blank"} 
 
 **-OR-**
 
