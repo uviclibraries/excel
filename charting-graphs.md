@@ -103,9 +103,9 @@ In this activity, you will produce some graphs and charts in Excel, as well as h
   - To change the chart title, double click on the title which is currently “Grade”, and then change it to: **Grade Homework Assignment Correlation**.
 
 OPTIONAL:
-8. **Histogram**:  [Instructions](http://bit.ly/2I78FNh){:target="_blank"} for how to create a Histogram chart.
-9. **Line Chart**: [Instructions](http://bit.ly/2HXiIEk){:target="_blank"} for how to create a Line chart.
-10. **Box & Whisker**: [Instructions](http://bit.ly/2I90O1w){:target="_blank"} for how to create a Box and Whisker chart
+8. **Histogram**:  [Instructions](https://support.microsoft.com/en-us/excel/create-a-pareto-chart){:target="_blank"} for how to create a Histogram chart.
+9. **Line Chart**: [Instructions](https://support.microsoft.com/en-us/excel/present-your-data-in-a-scatter-chart-or-a-line-chart){:target="_blank"} for how to create a Line chart.
+10. **Box & Whisker**: [Instructions](https://support.microsoft.com/en-us/excel/create-a-box-and-whisker-chart){:target="_blank"} for how to create a Box and Whisker chart
 
 <script>  
 
